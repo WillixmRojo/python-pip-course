@@ -5,6 +5,7 @@ To run the project, you have to follow the next instructions in the terminal:
 ```sh
 git clone
 cd AppCourseProject
+python3 -m venv myfirstvirtual
 source myfirstvirtual/bin/activate
 pip3 install -r requirements.txt
 python3 main.py
