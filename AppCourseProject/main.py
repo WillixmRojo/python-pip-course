@@ -31,4 +31,3 @@ if __name__ == '__main__':
     run()
     
 #para poder correr en terminal cuando solo lo mandas a llamar
-    
