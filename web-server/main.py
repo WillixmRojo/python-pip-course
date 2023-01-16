@@ -22,7 +22,7 @@ def get_list():
                 <li style=color:rgb(0,255,0);>Item 2</li>
                 <li style=color:rgb(0,255,0);>Item 3</li>
             </ul>
-            <img src='https://static.wikia.nocookie.net/zelda/images/4/4a/ToonLinkSSB4.png/revision/latest?cb=20131224210524&path-prefix=es' alt='Link' width='50%' height='50%'>
+            <img src='Mexico.png' alt='Link' width='50%' height='50%'>
         </body>
         '''
     #return {'name': 'William','name':'Evelyn Tonta'}
