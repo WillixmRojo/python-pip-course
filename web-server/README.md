@@ -7,5 +7,7 @@ cd web-server
 python3 -m venv webproject
 source webproject/bin/activate
 pip3 install -r requirements.txt
-python3 main.py
+uvicorn main:app --reload
 ```
+
+This will start running a local server using uvicorn, html and FastAPI.
