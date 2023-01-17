@@ -315,10 +315,3 @@ final_df["folio"] = final_df.shortUrl.str.rsplit('/', 1,expand=True).drop(0,axis
 #Pasar dataframe final a CSV
 final_df[(final_df.card_done_dt >= "2022-12-01") & (final_df.card_done_dt < "2023-01-31")].to_csv("TARJETAS TRELLO.csv",index=False)
 
-'''
-Data_TrelloBoard = pd.read_csv('TARJETAS TRELLO.csv')
-
-Label = Data_TrelloBoard[]
-
-charts.GenerateBarChart('Porcentajes',)
-'''
