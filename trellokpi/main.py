@@ -20,7 +20,3 @@ plt.ylabel('Count')
 plt.subplots_adjust(bottom=0.75)
 
 plt.savefig('plot.png')
-
-
-
-#charts.GenerateBarChart(Label, Value)
