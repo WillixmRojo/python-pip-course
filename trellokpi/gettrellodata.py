@@ -7,7 +7,6 @@ import requests
 import json
 import urllib3
 from datetime import datetime
-import charts
 
 #=============================================================
 
@@ -55,7 +54,7 @@ boards = boards.reindex(columns = cols_to_select, fill_value=np.nan).rename(colu
 
 #=============================================================
 
-#Selecting only boards from Report Control.
+#Selecting only boards from Control de Informes.
 boards = boards[boards['board_id'].isin(['62e1ca7080d55f4986b31e7c',   #Tablero: Administración, Gastos, Legal, Compras internas	
                                          '5e56db9de73d2004ac1d74b5',   #Tablero: Afore
                                          '6307b7208f302300595be54c',   #Tablero: CES Externo
