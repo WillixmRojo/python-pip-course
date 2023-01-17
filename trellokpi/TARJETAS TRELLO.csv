@@ -1,0 +1,868 @@
+card_name,desc,shortUrl,card_creation_dt,list_name,MemberCreator_id,card_done_dt,member_fullName,member_username,board_name,Backlog,Done,En Validación (PO / Usuario),Pre - Análisis,Product Backlog,Sprint Backlog (En Proceso),folio
+ID 5qAavW53 PR - Disponibilidad Datos para Modeló de Riesgos de Liquidez,"Existe un esfuerzo desarrollado por Jesús Saucedo, donde se disponibilizan los datos afore para que el área de riesgos trabaje sobre el modelo de riesgos de liquidez. 
+Es necesario migrar dicho esfuerzo desde QV hacia tableau. ",https://trello.com/c/5qAavW53,2022-08-02 15:44:17,Done,5e55cb850da7ad51f549435d,2022-10-05 08:01:46,Luz Marisol Olivas Arredondo,lolivasa,GCIA Afore,,40.233263888888885,42.972557870370366,,49.23549768518519,33.967025462962965,5qAavW53
+ID d5JiaOFW - Base de Clientes - MKT Ahorro Voluntario,"Crear dos bases para identificar a los Trabajadores afiliados que han realizado ahorro voluntario y a los que no.
+",https://trello.com/c/d5JiaOFW,2022-10-07 18:02:26,Done,5ec85c5984684e4451ed052d,2022-10-13 09:32:14,Mario Alberto Bastidas López,marioalbertobastidaslopez,GCIA Afore,4.774050925925926,95.4280902777778,0.6552662037037037,0.1196412037037037,0.07619212962962964,0.02054398148148148,d5JiaOFW
+xNdqTv3o Corte de Servicios Implementación Flag Estatus,"Agrupar todos los estatus del layout de servicios en tres categorías:
+rechazado = 0, liquidado= 1, no concluido en módulo = 2
+
+Campos:
+FLAG_ESTATUS
+FLAG_ESTATUS_DESC",https://trello.com/c/xNdqTv3o,2022-10-19 09:06:06,Done,62f1384d4cc49923c5a20411,2022-10-21 17:32:39,israel roman niño,israelromannino,GCIA Afore,,87.09447916666666,0.3670949074074074,,0.00015046296296296297,1.984525462962963,xNdqTv3o
+Petición 35815.1 - % de Recuperado,,https://trello.com/c/KBn4Qnn5,2022-08-04 08:46:37,Done,5b880cd96ac83422a360580c,2022-10-05 08:01:00,Alan,alan09487517,"GCIA Originación, Crédito al Consumo, Cobranzas",0.00019675925925925926,103.49135416666667,35.96225694444444,18.138194444444444,3.868738425925926,3.9989351851851853,KBn4Qnn5
+Petición 36354.1 - Abonos por puntualidad de Cliente,"reporte de abonos realizados por los Supervisores de Cobranza Domiciliaria clasificados por tipo de puntualidad de los Clientes Coppel.
+
+Descripción de la petición
+La necesidad es contar con un reporte de abonos realizados por los Supervisores de Cobranza Domiciliaria clasificados por tipo de puntualidad de los Clientes Coppel. Los datos que se mostrarán son reales y a la fecha seleccionada al momento de consultar la información. La petición abarca un dashboard donde se mostrará los resultados generales y un reporte donde se mostrarán los resultados a detalle. La petición abarca para todos los niveles de operaciones cobranza: • Zona. • Región. • División. • Director.",https://trello.com/c/X2Wlx1YS,2022-08-05 09:23:02,Done,5b880cd96ac83422a360580c,2022-10-05 08:01:00,Alan,alan09487517,"GCIA Originación, Crédito al Consumo, Cobranzas",0.002476851851851852,103.49135416666667,15.954479166666667,25.472349537037037,12.805520833333334,6.708159722222223,X2Wlx1YS
+Construir indicadores con información del DWH para el Tablero de Servicios Financieros: Cartera de Crédito Grupo Coppel,Construcción de indicadores del Tablero de Servicios Financieros con información del DWH: Cartera de Crédito Grupo Coppel,https://trello.com/c/bWeQNFra,2022-08-08 09:51:23,Done,6215385da0392b293ab543d6,2022-10-05 08:00:59,Rosario García Félix,rosariogarciafelix,"GCIA Originación, Crédito al Consumo, Cobranzas",6.504340277777778,103.49136574074076,28.891053240740742,0.4945949074074074,2.9542939814814813,19.079050925925923,bWeQNFra
+36680.1 Obtener Layout de la prueba actualización de datos generales ( Círculo de Crédito),,https://trello.com/c/d0unGUqn,2022-08-10 17:00:00,Done,61fdc0c24a0dde7a8bd6fa0d,2022-10-05 08:00:59,Tomás Arroyo Parra,tomasarroyoparra1,"GCIA Originación, Crédito al Consumo, Cobranzas",4.157268518518518,103.49136574074076,46.87217592592592,0.5416087962962962,1.9583796296296294,2.09625,d0unGUqn
+36704.1 Petición para obtener layout Apoyo Cozumel 2022,,https://trello.com/c/zWfNjaYB,2022-08-10 17:05:33,Done,61fdc0c24a0dde7a8bd6fa0d,2022-10-05 08:00:58,Tomás Arroyo Parra,tomasarroyoparra1,"GCIA Originación, Crédito al Consumo, Cobranzas",4.1552546296296295,103.49137731481483,49.66601851851852,0.5415972222222222,0.9377430555555555,0.3212037037037037,zWfNjaYB
+Resumen División  de creditos entregados por sucursal histórico,,https://trello.com/c/nEWXRcQf,2022-08-12 08:20:48,Done,60ca7e0b9604e44c7f6616d3,2022-10-05 08:00:58,German Castro,germancastro33,"GCIA Originación, Crédito al Consumo, Cobranzas",,103.49137731481483,53.98622685185185,,,,nEWXRcQf
+Resumen Region Banco de creditos entregados por sucursal historico,,https://trello.com/c/m42qxOnB,2022-08-12 08:21:29,Done,60ca7e0b9604e44c7f6616d3,2022-10-05 08:00:58,German Castro,germancastro33,"GCIA Originación, Crédito al Consumo, Cobranzas",,103.49137731481483,53.98575231481482,,,,m42qxOnB
+"Petición 36720.1 - Información de bonificaciones, devoluciones y cuentas saldadas Mx y Ar para P+P27 a Jul-22","Solicitante Original:	OSCAR VICENTE BETANZOS SANCHEZ
+Para la construcción de las proyecciones de cartera para el presupuesto de finanzas (P+P27) tanto de Argentina como México es necesaria la información de las transacciones de bonificación por pronto pago y devoluciones para entender la evolución de estos conceptos a lo largo de la madurez de cada cosecha.
+
+Para ello se solicita la información de la actualización de transacciones de bonificación por pronto pago y devoluciones de las carteras de Muebles, Prestamos y Ropa para México y Argentina ocurridas en el mes de Julio 2022.
+
+También se solicita se actualice la información de bonificaciones por pronto pago de la cartera de Reestructura a Julio 2022.
+
+De igual manera se solicita la actualización a corte de Julio 2022 de la información de cuentas saldadas de México y de Argentina de las todas las carteras.
+
+Toda la información mencionada fue actualizada a May-22 mediante el folio 35837 y se solicita para el apoyo al equipo de finanzas en la elaboración del la proyección de cartera del P+P27",https://trello.com/c/rP5PlYu5,2022-08-14 22:15:24,Done,60ca7e0b9604e44c7f6616d3,2022-10-05 08:00:57,German Castro,germancastro33,"GCIA Originación, Crédito al Consumo, Cobranzas",,103.49140046296297,35.79439814814815,14.74273148148148,0.8695023148148148,,rP5PlYu5
+Petición 36588.1 - Base de Información para Metas de Abonos,"Solicitante Original:	CARLOS ALAN MARTINEZ PAEZ
+Se necesita que la información de los abonos semanales se encuentre en “PDA ControlInformes”. Se requiere la siguiente información: Fecha Semana, No Semana, Año, Canal, Region, Zona, Centro, Abono, Operaciones.",https://trello.com/c/UKksvm8P,2022-08-14 22:17:35,Done,60ca7e0b9604e44c7f6616d3,2022-10-05 08:00:57,German Castro,germancastro33,"GCIA Originación, Crédito al Consumo, Cobranzas",,103.49140046296297,11.583576388888888,21.580127314814813,2.9451504629629626,15.29625,UKksvm8P
+Petición 36698.1 - Mejora en cumplimiento de convenios por medio de Behavioral Economics II,"Solicitante Original:	GIOVANI GAXIOLA PARRA
+Nos encontramos en una etapa de exploración de Cobranza con el fin de generar una propuesta que nos ayude a incrementar el cumplimiento de convenios mediante ciencias del comportamiento, para ello se requiere conocer el grado actual de cumplimiento de convenios por canal, puntualidad y tipo de convenio segun el proceso de cobranza, además de conocer de forma cuantitativa los avisos de Cobranza Domiciliaria que se entregan cuando no se localiza a los clientes, el resultado de ofrecimiento de club de proteccion a personas que cuentan con vencido y los resultados de contacto por medio del CAT a traves de los fines de gestión.
+Descripción de la petición
+Contar con informacion de convenios, descrito por rango de cumplimiento, desde un 0 hasta un 100 en de diez en diez.",https://trello.com/c/TuZyfA8B,2022-08-14 22:19:44,Done,60ca7e0b9604e44c7f6616d3,2022-10-05 08:00:56,German Castro,germancastro33,"GCIA Originación, Crédito al Consumo, Cobranzas",,103.49141203703704,34.97572916666667,7.570532407407408,2.952453703703704,5.904895833333334,TuZyfA8B
+ID mFlFrQgK - Reporte de Metas de Préstamo Coppel ( Cajas de Abono + Promotoria),"Se solicita la mejora al reporte de Metas de PPC con folio original de # 28603.1- Información Mensual para Reporte de Préstamo Personal por Región de Venta.
+
+Debido a la instalación nacional del Préstamo Coppel en Promotoria Banco se busca incluir la información de la meta de Promotoria, así como su desempeño en este reporte que está enfocado a los gerentes.
+
+Se anexa layout.",https://trello.com/c/mFlFrQgK,2022-08-25 16:24:31,Done,,2022-10-26 12:25:35,,,"GCIA Originación, Crédito al Consumo, Cobranzas",0.060266203703703704,82.30763888888889,1.968298611111111,9.640405092592593,27.174502314814816,12.183414351851852,mFlFrQgK
+Recuperado por mora para juntas regionales de cobranzas,Solicitante : IVAN DE LA O,https://trello.com/c/A9kEvC4j,2022-08-26 08:58:20,Done,60ca7e0b9604e44c7f6616d3,2022-10-05 08:00:55,German Castro,germancastro33,"GCIA Originación, Crédito al Consumo, Cobranzas",,103.49143518518518,32.96646990740741,,,6.993657407407408,A9kEvC4j
+Petición 36815.1 - Apagado de Indicadores Normativos JUL22 - Cobranzas,"Se solicita apagar y reprocesar los indicadores normativos de Diagnóstico de SST e Higiene en cobranzas para la emisión de evaluación objetiva de julio 2022, para los siguientes Cobranzas:
+
+MTRY I
+Linares (515301)
+Cd Mante(514801)
+Cd Victoria (516301)
+
+MTRY II
+Sabinas Hidalgo (542401)
+General Zuazua (535201)",https://trello.com/c/Ri3b2GwN,2022-08-26 16:07:08,Done,62febe991aad95360613c4a1,2022-10-05 08:00:55,Frederick Angulo Velazquez,frederick_angulo,"GCIA Originación, Crédito al Consumo, Cobranzas",2.105601851851852,103.49144675925925,27.96709490740741,7.62962962962963,0.2894560185185185,1.6705671296296298,Ri3b2GwN
+Modificación a Base de clientes para prueba de envío de mensajería RCS,"Se solicita el apoyo para añadir 2 columnas a las bases de clientes del RCS:
+ - Fecha de inserción 
+ - Mora (En tablas de cobranza correctiva)
+
+Fecha de inserción: Con el fin de contar con un rastreo de las fechas en las que se depositaron los Clientes
+Mora: Se requiere este dato para el layout del RCS
+
+
+Nota: Es un ajuste a la petición 32313.1",https://trello.com/c/8y0u2jOh,2022-08-30 15:55:16,Done,62ffda789710a5082f0b1658,2022-10-05 08:00:54,Edith Elena Valdez Yee,edithvaldez1,"GCIA Originación, Crédito al Consumo, Cobranzas",12.718715277777777,103.49145833333334,20.917962962962964,0.026087962962962966,0.308275462962963,1.699537037037037,8y0u2jOh
+Petición 36848.1 - Petición para obtener tabla de movimientos CAT Coppel Argentina,"Solicitante Original:MARTHA MARGARITA FLORES SOSA
+####Descripción del proyecto/iniciativa
+la tabla de movimientos contiene los registros que genera CAT diarios, de esta forma se puede llevar un control de su funcionamiento y medir su eficiencia.
+####Descripción de la petición
+se solicita una tabla de movimientos de las gestiones de CAT diarias.
+",https://trello.com/c/QKmr4ikl,2022-08-31 19:08:05,Done,60ca7e0b9604e44c7f6616d3,2022-10-05 08:00:54,German Castro,germancastro33,"GCIA Originación, Crédito al Consumo, Cobranzas",4.701631944444444,103.49145833333334,21.577592592592595,4.374583333333333,2.4862037037037035,1.3966666666666667,QKmr4ikl
+Copiado de tablas de solicitudes en linea,"
+Descripción de la petición
+Se solicita el copiado de las siguientes tablas en el PDA, ya que son necesarias para los análisis que realizamos dentro del área: 
+socertificacionriesgos
+soconsultaburo
+
+
+ Dichas tablas se encuentran en el servidor de postgres 10.45.225.24 ReportesArgentina en la bd de solicitudes.
+
+Se requiere el copiado de toda la historia disponible y la actualización diaria de las dos tablas.",https://trello.com/c/E0KSksxQ,2022-09-01 16:35:46,Done,62a0e72fa678d42a903c6e92,2022-10-05 08:00:53,joel.vea,joelvea1,"GCIA Originación, Crédito al Consumo, Cobranzas",10.683182870370372,103.4914699074074,6.857002314814815,0.12761574074074075,0.9575462962962962,15.013541666666665,E0KSksxQ
+ID YzfNQgGU - PIDG BanCoppel,Contar con un informe dinámico para obtener los Principales Indicadores de Gestión BanCoppel.,https://trello.com/c/YzfNQgGU,2022-09-07 10:49:31,Done,62fd8a554e73ef5af05a9cb1,2022-10-04 08:23:24,jguzman,jguzman100,"GCIA Originación, Crédito al Consumo, Cobranzas",8.082974537037037,104.4758449074074,5.570416666666667,11.825856481481482,,1.4192824074074073,YzfNQgGU
+Petición 36026.1 - Petición para obtener Base de datos de gestión de cobranza,"Se solicita una base de datos a nivel Centro de Cobranza de % cont por cte, % cont por convenio, % cumplimiento, % efectividad, % convenio ideal, % rec convenio, que nos permita conocer la información por mes, para realizar los pronósticos semestrales por Centros de cobranza.
+
+Los meses solicitados son de enero a junio de 2022.",https://trello.com/c/gEMmkxLU,2022-09-09 11:43:08,Done,62030b8045fd6e34e2fce250,2022-10-05 08:00:53,marco.gonzalezb,marcogonzalezb1,"GCIA Originación, Crédito al Consumo, Cobranzas",4.258020833333334,103.49148148148147,12.621793981481483,8.614583333333334,,0.3512615740740741,gEMmkxLU
+ID fWFdlWWY - Dashboard Préstamos Grupo Coppel (Nuevos Canales),"Se busca incluir en la herramienta de tableau ""Dashboard de Prestamos Diarios""  dos canales nuevos de venta/colocación del Préstamo Coppel: App Bancoppel (préstamos generados en la app bancoppel express) y Promotoria Bancoppel (préstamos generados en la promotoria banco en sucursal).
+
+Gricelda Dominguez ya está trabajando con otro folio relacionado a actualizar este dashboard. 
+
+
+",https://trello.com/c/fWFdlWWY,2022-09-09 16:49:01,Done,630505b6da11d035e2ca33ce,2022-10-07 08:01:00,tamara aispuro,tamaraaispuro1,"GCIA Originación, Crédito al Consumo, Cobranzas",2.6786689814814815,101.49140046296297,6.596157407407407,0.029942129629629628,16.96148148148148,1.3670717592592592,fWFdlWWY
+Petición 36923.1 - Conteo de Clientes Celulares,"USUARIO SOLICITANTE: Armando Gamez Caballero 
+ING. DE DATOS ASIGNADO: Yasmin Osuna Arellano
+
+La solicitud va en función de conocer a los Clientes de la categoría Celulares de forma más profunda en su comportamiento en la venta, saldo , índice de compra , comportamiento de compra, etc. - Trabajar sobre el folio 36374.1 -Se solicita compartir este reporte periódicamente de manera mensual
+
+Conteo al último corte de Clientes con vista enfocada en la categoría Celulares - Trabajar sobre el folio 36374.1",https://trello.com/c/jurmGXoc,2022-09-12 08:58:46,Done,60ca7e0b9604e44c7f6616d3,2022-10-05 08:00:52,German Castro,germancastro33,"GCIA Originación, Crédito al Consumo, Cobranzas",0.0011458333333333333,103.49149305555555,6.870439814814815,14.98511574074074,,1.1030902777777778,jurmGXoc
+Petición 36924.1 - Conteo de Clientes Celulares (Historico),"Solicitante Original:	ARMANDO GAMEZ CABALLERO
+
+Descripción del proyecto/iniciativa
+Conteo al último corte mensual de Clientes con vista enfocada en la categoría celulares - se toma el folio 3674.1 como referencia para este reporte -Se solicita este reporte sea compartido de manera periódica de forma mensual
+Descripción de la petición
+La solicitud va en función de conocer a los Clientes de la categoría Celulares de forma más profunda en su comportamiento en la venta, saldo, índice de compra, comportamiento de compra etc. - se toma el folio 3674.1 como referencia para este reporte -Se solicita este reporte sea compartido de manera periódica de forma mensual
+",https://trello.com/c/oz6XEk8k,2022-09-12 09:01:25,Done,60ca7e0b9604e44c7f6616d3,2022-10-05 08:00:52,German Castro,germancastro33,"GCIA Originación, Crédito al Consumo, Cobranzas",,103.49149305555555,7.9944791666666655,9.982743055555556,,4.980729166666666,oz6XEk8k
+Petición para obtener domicilios de clientes Coppel,"Solicita: MARCO CESAR GONZALEZ BOJORQUEZ
+
+Descripción del proyecto/iniciativa: 
+Derivado de una prueba de Actualización de Datos Generales con Círculo de Crédito, donde nos están compartiendo los domicilios y teléfonos más actuales de una muestra de clientes Coppel, se solicitan los domicilios particulares, de trabajo y de referencias de los mismos; esto con el objetivo de validar la información compartida por Círculo de Crédito.
+
+Descripción de la petición:
+La solicitud de esta información es un reporte único con lo más reciente, por lo que no se necesita actualizar esta base de datos. ",https://trello.com/c/A3H8X7RR,2022-09-20 10:18:25,Done,62030b8045fd6e34e2fce250,2022-10-05 08:00:51,marco.gonzalezb,marcogonzalezb1,"GCIA Originación, Crédito al Consumo, Cobranzas",0.11806712962962963,103.49151620370371,7.974560185185186,1.7929050925925925,,5.0189351851851844,A3H8X7RR
+ID 0KtLMrrS - Actualización de tabla DIRECTORIO_COBRANZA_DOMICILIARIA,"Solicita: MARCO CESAR GONZALEZ BOJORQUEZ
+
+Descripción del proyecto/iniciativa: 
+Se solicita actualización de la tabla DIRECTORIO_COBRANZA_DOMICILIARIA, para cargar información desde enero 2021 a lo más reciente, con el objetivo de analizar los clientes asignados para cobranza domiciliaria y generar propuestas para la mejora de las actividades de cobranza domiciliaria.
+
+La periodicidad de la actualización será diaria, por lo que la actualización de la base puede tener corte cada día del mes. Asimismo, se necesita que se guarde información de dos años completos.
+
+Descripción de la petición:
+Se solicita actualización de la tabla DIRECTORIO_COBRANZA_DOMICILIARIA, para cargar información desde enero 2021 a lo más reciente, con el objetivo de analizar los clientes asignados para cobranza domiciliaria y generar propuestas para la mejora de las actividades de cobranza domiciliaria.
+
+La periodicidad de la actualización será diaria, por lo que la actualización de la base puede tener corte cada día del mes. Asimismo, se necesita que se guarde información de dos años completos.",https://trello.com/c/0KtLMrrS,2022-09-20 10:26:10,Done,62030b8045fd6e34e2fce250,2022-10-24 08:55:02,marco.gonzalezb,marcogonzalezb1,"GCIA Originación, Crédito al Consumo, Cobranzas",33.936712962962964,84.4538888888889,,,,,0KtLMrrS
+ID LljTwnyV - Complementaria - Petición para obtener domicilios de clientes Coppel,"Solicita: MARCO CESAR GONZALEZ BOJORQUEZ
+
+Descripción del proyecto/iniciativa: 
+Se solicita que se anexe a la tabla MARCO_CANDIDATOS_ADG_CI el campo “FechaUltActDeDatos” contenido en la tabla “tmp_dwh..maedirectorio”, con el objetivo de comparar los domicilios compartidos por Círculo de Crédito y validar si son más recientes o más antiguos que los domicilios de los clientes con los que cuenta Coppel. La solicitud de esta información es un reporte único con lo más reciente, por lo que no se necesita actualizar esta base de datos.
+
+Descripción de la petición:
+Se solicita que se anexe a la tabla MARCO_CANDIDATOS_ADG_CI el campo “FechaUltActDeDatos” contenido en la tabla “tmp_dwh..maedirectorio”, con el objetivo de comparar los domicilios compartidos por Círculo de Crédito y validar si son más recientes o más antiguos que los domicilios de los clientes con los que cuenta Coppel. La solicitud de esta información es un reporte único con lo más reciente, por lo que no se necesita actualizar esta base de datos.",https://trello.com/c/LljTwnyV,2022-09-28 16:40:35,Done,62030b8045fd6e34e2fce250,2022-10-19 08:00:49,marco.gonzalezb,marcogonzalezb1,"GCIA Originación, Crédito al Consumo, Cobranzas",0.656400462962963,89.49155092592592,6.591238425925926,11.088344907407409,0.027777777777777776,2.275289351851852,LljTwnyV
+Conteo de Clientes Celulares (Mensual),"La solicitud va en función de conocer a los Clientes de la categoría Celulares de forma más profunda en su comportamiento en la venta, saldo , índice de compra , comportamiento de compra, etc. - Trabajar sobre el folio 36374.1 -Se solicita compartir este reporte periódicamente de manera mensual
+
+Conteo al último corte de Clientes con vista enfocada en la categoría Celulares - Trabajar sobre el folio 36374.1",https://trello.com/c/W5DWVwht,2022-10-04 10:06:56,Done,632de5b82265750112654096,2022-10-28 15:33:22,Armando Gamez Caballero,armandogamezcaballero,"GCIA Originación, Crédito al Consumo, Cobranzas",5.669988425925926,80.17729166666668,2.9775000000000005,0.08061342592592592,14.922638888888889,0.31607638888888884,W5DWVwht
+ID 06G6MaxT - Datos para Indicadores BanCoppel,"La solicitud de esta data corresponde al histórico solicitado por Tomás Arroyo para la creación de nuevas metas en nuevos indicadores de cobranza, en el tablero de indicadores estratégicos BanCoppel en la Cobranza, con apoyo de Carolina López.",https://trello.com/c/06G6MaxT,2022-10-04 16:12:17,Done,6303f4b4627dd2145797c00d,2022-10-27 08:01:27,Carmen Rocio Alvarez Sainz,carmen_rocio_alvarez,"GCIA Originación, Crédito al Consumo, Cobranzas",5.675601851851852,81.49112268518518,6.822881944444444,0.07703703703703704,9.32400462962963,0.7596180555555555,06G6MaxT
+ID xI5oXAJe - 37155.1 BNOA Reestructuras 3.0,"Descripción del proyecto/iniciativa
+Actualmente se encuentra instalado a nivel nacional el proyecto Reestructura de Crédito Coppel, con el fin de dar cumplimiento a las buenas practicas de Administración de Proyectos se requiere generar el documento BNOA actualizado de Reestructuras.
+Descripción de la petición
+Se requiere actualizar el informe BNOA Reestructuras cuyo folio ya trabajado es el 33014.1 realizado por Carmen Leticia Santos el 14 de diciembre de 2021.
+
+El periodo a abarcar son las cosechas de Enero 2017 a septiembre 2022.",https://trello.com/c/xI5oXAJe,2022-10-07 09:44:10,Done,60ca7e0b9604e44c7f6616d3,2022-10-21 10:48:17,German Castro,germancastro33,"GCIA Originación, Crédito al Consumo, Cobranzas",2.946354166666667,87.3752662037037,,11.098171296296295,,,xI5oXAJe
+ID OjnT5GnR - Mejoras al reporte de solicitudes y entregas,"Se solicitan mejoras al reporte existente, se adjunta liga con el detalle, la mejora consiste en agregar la vista por canal.
+
+",https://trello.com/c/OjnT5GnR,2022-10-10 18:10:53,Done,61795771ea3f751a8ffc0629,2022-10-26 08:01:18,José Alberto García,josealbertogarcia11,"GCIA Originación, Crédito al Consumo, Cobranzas",0.759988425925926,82.49123842592593,6.886273148148148,1.2147800925925927,4.901400462962963,1.8142245370370367,OjnT5GnR
+ID Cc032hWU - Petición para agregar convenios diarios de CAT,"Con la finalidad de analizar los convenios diarios realizados en CAT, se solicita que se deposite en los servidores de Ciencia de Datos una base réplica de los datos de la tabla que se muestra a continuación de tal forma que esa base que nos proporciona deberá cuadrar con la información que se presenta en la imagen mostrada abajo.
+
+
+
+La información deberá tener una periodicidad diaria, y se deberá depositar un historial de desde enero 2021 hasta el presente, y así mismo se deberá actualizar de forma diaria.
+
+Las variables solicitadas son las siguientes:
+
+IDCTE: Cliente al que se le hizo el convenio (sin dígito verificador)
+Fecha: fecha de elaboración de convenio
+Canal: CAT
+Plazoconvenio: plazo del convenio elaborado (1, 2, 3, 4 semanas)
+Importeconvenio: importe del convenio realizado
+
+Al sumar la cantidad de convenios deberá cuadrar con los resultados de la imagen mostrada arriba.
+
+*** NOTA: Se solicita que se agreguen los convenios CAT a la tabla ya existente que se detalla a continuación.
+
+Servidor: 10.44.14.126
+BD: RECUPERACION_CREDITO
+Schema: ADMIN
+Nombre de la Tabla: CONVENIOSDIARIOS_CAJAS_DOMICILIARIA",https://trello.com/c/Cc032hWU,2022-10-11 09:37:56,Done,62030b8045fd6e34e2fce250,2022-10-26 08:01:17,marco.gonzalezb,marcogonzalezb1,"GCIA Originación, Crédito al Consumo, Cobranzas",4.04869212962963,82.49125,6.635497685185185,1.956122685185185,1.3396990740740742,0.9528587962962963,Cc032hWU
+"ID xlDAOv0i - Cambio de metas en encuestas de periódico Coppel y cambio de nombre en clientes Loc, 141, Conflicto y Gol","Cambiar rangos evaluativos de las Encuestas de Periódico Coppel y Cambio de nombre en clientes Gol, Conflicto, i41 y Loc en la Evaluación Objetiva de Cobranza",https://trello.com/c/xlDAOv0i,2022-10-12 10:11:49,Done,62febee9aee0d7224dc429cf,2022-10-25 08:01:15,Gissel Cardenas Duarte,gisselcardenasduarte,"GCIA Originación, Crédito al Consumo, Cobranzas",3.0262500000000006,83.49127314814815,6.602337962962963,1.9500694444444442,0.2603587962962963,1.0703125,xlDAOv0i
+Solicitud de tabla con información de empleados Coppel y Bancoppel MX,"Buenas tardes. Me comunico con usted del área de Coordinación Políticas y Operación Originación Crédito Coppel esto con la finalidad de realizar una solicitud de datos. 
+
+Se requiere una tabla que contenga información sobre empleados de Coppel y Bancoppel, particularmente me interesa conocer los campos relacionados al: numero de empleado, nombre de empleado, código del centro, código de tienda, centro, puesto, salario, fecha de alta y fecha de baja. Se requiere que se deposite en el servidor PDA en la base de datos ""Paramétrico"" en el esquema ""MX"", toda la historia disponible y su actualización mensual. No cuento con el nombre de la tabla, ni su IP. 
+
+Gracias, sin más por el momento quedo atenta.
+",https://trello.com/c/IWXd2r1F,2022-10-19 15:32:34,Done,62f595dab394944edaf097cd,2022-10-26 09:03:25,Ivety Diaz Sanchez,ivetydiazsanchez,"GCIA Originación, Crédito al Consumo, Cobranzas",6.717893518518519,82.44811342592594,,,,,IWXd2r1F
+ID 4INwdtmx - Solicitud de actualización de 2 tablas de la BD Visualización,"Se solicita actualizar a Septiembre de 2022 las siguientes 2 tablas de la Base de Datos Visualización:
+
+ANALISISARBOLDESOLICITUDES
+ANALISISESTADODERESULTADOS
+
+El objetivo es realizar un análisis con esta información para realizar un análisis para verificar si existe alguna relación con la contracción en las ventas de la cartera de muebles en los últimos meses de año en curso.
+
+Solicitante: Jair Pérez
+",https://trello.com/c/4INwdtmx,2022-10-21 15:57:25,Done,628eb4e2a787974fa53c4102,2022-10-28 17:32:06,Jair Pérez,jair_perez,"GCIA Originación, Crédito al Consumo, Cobranzas",2.6937615740740743,80.0948726851852,3.472222222222222e-05,0.04638888888888889,0.14368055555555556,4.181886574074074,4INwdtmx
+ID Kcoddhbp - Reporte Regional Cobranza Digital,"Se solicita la generación de un reporte a nivel regional de las captura de correos gestionadas por los supervisores de Cobranza. Las Regiones deben de ser en base a los centros de Cobranza, es decir 15 Regiones.
+
+Se necesita un reporte semanal que muestre las captura de correos por Region Cobranza:
+
+Fecha de solicitud, Región Cobranza, Centro Cobranza, Correos capturados.",https://trello.com/c/Kcoddhbp,2022-10-26 12:17:22,Done,5b880cd96ac83422a360580c,2022-10-28 15:33:08,Alan,alan09487517,"GCIA Originación, Crédito al Consumo, Cobranzas",1.051400462962963,80.17748842592592,0.11825231481481481,0.9662962962962963,,,Kcoddhbp
+Modificación a tabla MAE_verificarinformaciones MX,Se solicita modificar el código que construye la tabla MAE_verificarinformaciones para que no incluya registros donde los campos ApellidoPaternoReferencia y NombreReferencia  aparezcan sin datos (El valor default son 15 espacios vacíos '               ').,https://trello.com/c/VE5DGnr6,2022-10-28 11:42:47,Done,62a0e6ad7f5ee0526551a366,2022-10-28 15:32:56,Sergio Luis Sicairos Paez,sergio_sicairos,"GCIA Originación, Crédito al Consumo, Cobranzas",0.02677083333333333,80.1776388888889,0.11842592592592592,,,,VE5DGnr6
+[08-11-2021] - 32013 - Informes diarios de Indicadores de Cajas de Abono,"Se solicita informes diarios de los indicadores de Cajas de Abono, para realizar reportes de avances diarios y acumulados, los indicadores que se requieren son: Primera Compra Mínimo a Pagar Venta de Club de Protección Cump de Afiliaciones Afore Venta de Telefonía % ISA - Experiencia en Cajas % ISA -Tiempo en Fila para Real Caminata.",https://trello.com/c/lzvYXt7o,2022-08-02 08:39:49,Done,62e81161ab536611b308cfc5,2022-10-07 08:01:41,Blanca Mayely López Camacho,blancamayelylopezcamacho,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",8.224363425925926,101.49085648148149,6.941701388888888,4.770694444444445,36.3491087962963,9.687650462962964,lzvYXt7o
+ID 1OSswZaT - [23-05-2022] - 35324 - Vendedor Certificado Agencia Coppel Motos,Considerar dentro del proceso de Incentivo para Vendedor Certificado el puesto 269- Vendedor Motocicletas para el tipo de Formato de Agencias Coppel Motos,https://trello.com/c/1OSswZaT,2022-08-02 08:51:34,Done,62e933447d4b2f060b11f91e,2022-10-20 09:15:41,Saúl Yovani Salgueiro Lindoro,saulyovanisalgueirolindoro,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",12.99042824074074,88.43946759259258,1.0422453703703705,0.0035416666666666665,59.307291666666664,5.673240740740741,1OSswZaT
+[11-07-2022] - 36241 - Reporte de Vendedores/Asesores con mínimo 1 Operación,"Tenemos la necesidad de este reporte dinámico en el que se muestre la cantidad de colaboradores que tuvieron al menos una operación en los periodos de tiempo que se indican, es importante señalar que se debe mostrar un resumen por región, como también que se pueda obtener una comparativa entre la planta autorizada y la planta activa más reciente, anexo a este documento les compartimos un ejemplo de cómo nos gustaría visualizarla, nos sería de gran utilidad que el reporte sea flexible con los rangos de fechas y que se pueda generar un histórico de este, como también generar informes del mes en curso.",https://trello.com/c/jVkWBEaO,2022-08-02 09:00:06,Done,62e81161ab536611b308cfc5,2022-10-11 08:01:10,Blanca Mayely López Camacho,blancamayelylopezcamacho,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",12.989004629629632,97.49121527777778,6.65875,0.006111111111111111,49.117071759259254,1.1881365740740741,jVkWBEaO
+[21-12-2020] - 28165 - Considerar Ventas de Coppel.com en Indicador de Gasto vs Venta,"Se solicita que la columna que considera la ""Venta"" del centro, sume tambien las ventas que se realizan por medio de Coppel.com en Tienda y se considere en los calculos de los % de cumplimiento del indicador gasto vs venta en tiendas ropa, tiendas muebles, zapaterias canada, solo ropa, c-digital y agencias solo motos.",https://trello.com/c/oTCXpIuW,2022-08-02 09:03:17,Done,62e80a7947fc560fee79d1b4,2022-10-10 09:09:58,William Rojo Cuén,williamrojocuen,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",12.995173611111111,98.4434375,5.350173611111111,,18.026400462962965,32.63289351851852,oTCXpIuW
+"[05-01-2022] - 33473 - Considerar el tiempo en sesión y operaciones por parte de los colaboradores de Cajas (Puesto 26 Cajero Abono) dentro del sistema de Ropa y Muebles, así también considerar las operaciones del nuevo punto de venta.","Actualmente contamos con un Indicador de Atención en el área de Cajas de Abono, el cual mide la productividad de los Cajeros así como el uso que se le da a las Micros en el Centro. De acuerdo a las necesidades que van presentando en las Tienda se realizan ajustes en las lógicas y metas del Indicador.",https://trello.com/c/yRh2ZAiH,2022-08-02 09:05:40,Done,62e81161ab536611b308cfc5,2022-10-03 08:43:19,Blanca Mayely López Camacho,blancamayelylopezcamacho,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",12.993935185185185,105.46194444444446,0.00018518518518518518,,48.990324074074074,3.472222222222222e-05,yRh2ZAiH
+"ID 7uJrZxvp - [31-03-2022] - 34572 - Mejora al Informe ""Detalle Ropa por Día Operadores y Tiempos"".","Se requiere una Mejora para los Centros ROPA en la Generación de Reporteria del informe en mención, donde dicha mejora, solo consiste en anexarle nuevas Columnas, de las cuales varias ya se ven en el informe ""Resumen Final Saturacion-Productividad"", solo que en el detalle se requiere su información resultado de cada día.",https://trello.com/c/7uJrZxvp,2022-08-02 09:10:00,Done,62e81161ab536611b308cfc5,2022-10-20 09:12:59,Blanca Mayely López Camacho,blancamayelylopezcamacho,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",26.246678240740742,88.4413425925926,5.944826388888888,7.36761574074074,32.39164351851852,7.05130787037037,7uJrZxvp
+"ID Fa80LwA0 - [31-03-2022] - 34571 - Mejora al Informe ""Detalle Muebles por Día Operadores y Tiempos"".","Se requiere una Mejora para los Centros MUEBLES en la Generación de Reporteria del informe en mención, donde dicha mejora, solo consiste en anexarle nuevas Columnas, de las cuales varias ya se ven en el informe ""Resumen Final Saturacion-Productividad"", solo que en el detalle se requiere su información resultado de cada día.",https://trello.com/c/Fa80LwA0,2022-08-02 09:14:09,Done,62e81161ab536611b308cfc5,2022-10-20 09:12:57,Blanca Mayely López Camacho,blancamayelylopezcamacho,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",26.244363425925926,88.44137731481482,5.945601851851851,7.367025462962964,32.391469907407405,7.050706018518518,Fa80LwA0
+ID DuW6XFLm - [22-04-2022] - 34873 - Ajuste de Regla de Negocio Tda Nueva Indicadores de Caminatas,"El ajuste solicitado es que al momento de aplicarse una caminata en SIGO antes de los 3 meses, sólo se active el indicador correspondiente a esa caminata. Esto aplicable en todas las evaluaciones objetivas: Ropa, Muebles, Cajas, Zapatería, Solo Ropa, C-Digital, Agencias Motos.",https://trello.com/c/DuW6XFLm,2022-08-02 09:17:51,Done,62e80a7947fc560fee79d1b4,2022-10-28 08:36:27,William Rojo Cuén,williamrojocuen,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",12.993043981481483,80.46672453703704,3.994652777777778,,58.2581712962963,11.725381944444443,DuW6XFLm
+[17-08-2022] - Simulador incentivos SF,"El equipo de Operaciones Servicios Financieros  cuenta con la necesidad de un simulador sobre los pagos de incentivos el cual ayudará a gestionar y proponer ajustes en los montos de incentivos así como los porcentajes de pago asignados a cada indicador.
+
+Se anexa archivo PDF con el detalle de la petición.",https://trello.com/c/0S8w3FAy,2022-08-17 11:14:07,Done,62b23ad564c589068f2d8a9f,2022-10-07 08:01:40,Jorge Jesús Criollo Esquivel,jcriollo,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",18.523113425925924,101.49090277777778,6.6334837962962965,0.0001273148148148148,14.391574074074073,11.318055555555555,0S8w3FAy
+[29-08-2022] - 36900 - Creación de indicadores Evaluación Objetiva Fashion Market,Creación de Evaluación Objetiva para medir las tiendas Fashion Market por medio de los indicadores evaluativos. como herramienta de trabajo para gerente de tienda y se logre apegar a los procesos.,https://trello.com/c/WnEHvyDB,2022-08-29 08:25:33,Done,5bacfc5de184314092f6150f,2022-10-05 00:10:45,Luis Verdugo,luisverdugo1,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",6.644421296296297,103.8179513888889,11.552233796296298,3.472222222222222e-05,14.392118055555557,4.067581018518518,WnEHvyDB
+Prueba incentivos Cajas de Abono - Cambio monto a pagar indicador Cobranza,"Es necesario realizar ajuste al monto máximo a pagar en la prueba de incentivos en cajas de abono (**Prueba A y B**) en el **indicador de Cobranza**, que pasará en el **rango de >= 100% de $1,200 a $1,120**. El resto de los indicadores y rangos permanecen igual. Se anexa imagen con el cambio en círculo rojo.",https://trello.com/c/LNhUD256,2022-09-09 12:18:13,Done,62b23ad564c589068f2d8a9f,2022-10-07 09:10:50,Jorge Jesús Criollo Esquivel,jcriollo,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",11.210717592592593,101.44290509259258,0.04717592592592593,3.472222222222222e-05,12.753796296296295,3.8581481481481483,LNhUD256
+Migración información de modelo a nivel diario,Se requiere cambiar la información base que utiliza el modelo para calcular los resultados de la Evaluación Objetiva por Función a partir de información diaria.,https://trello.com/c/tuhUoyYE,2022-09-12 17:33:15,Done,62ebfc64fca4a43a4e6930b9,2022-10-07 08:07:00,Jorge Arturo Sandoval Palazuelos,jorgearturosandovalpalazuelos1,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",0.013483796296296298,101.48723379629631,0.00038194444444444446,4.6296296296296294e-05,3.472222222222222e-05,24.59267361111111,tuhUoyYE
+ID z8xj1kuu - Modelo de Gerente de Zona en Tableau,Se requiere la creación de una pantalla adicional para visualizar la información del Gerente de Zona en el modelo de Servicios Financieros en Tableau. Así mismo se requiere  la  agregación de la información diaria de distintas funciones para el cálculo de resultados del Gerente de Zona,https://trello.com/c/z8xj1kuu,2022-09-12 17:53:36,Done,62ebfc64fca4a43a4e6930b9,2022-10-11 09:22:49,Jorge Arturo Sandoval Palazuelos,jorgearturosandovalpalazuelos1,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",7.979618055555555,97.43458333333332,0.05783564814814815,0.00016203703703703703,4.6296296296296294e-05,20.60760416666667,z8xj1kuu
+ID FIUqRDyS - Cambios a Indicador de gastos de Nomina - Argentina,"Se solicita modificar las cuentas que se consideran en el indicador de gasto de nómina de argentina, la cuenta 52005000 - Indemnizaciones y sus sub cuentas ya no se deben considerar en gastos de nómina pero si en gastos controlables dentro del rubro Gastos de Personal.
+
+Por otro lado se solicita agregar las tdas 31 (Recientemente aperturada) y 32 (Por aperturar en octubre) dentro del grupo 1 definido para meta de gastos donde actualmente ya se encuentran la tda 1,2,4,5,8,12,13,14,15,16,22 y 27.",https://trello.com/c/FIUqRDyS,2022-09-13 16:37:27,Done,5c92ce9079423a2fd21894a4,2022-10-24 08:41:37,maximiliano Soler,maximiliano_soler,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",5.7720717592592585,84.46319444444444,2.8206828703703706,0.0001273148148148148,29.880405092592593,2.196273148148148,FIUqRDyS
+"ID tQ6Azsmu - Metas de venta Ropa, muebles y prestamos actualizadas por inflación - Argentina",Dada la gran inflación en la que se encuentra el país se realizó una reevaluación de las metas de venta ropa muebles y prestamos para lo que resta del año y se requiere que se ajusten para los indicadores de Argentina.,https://trello.com/c/tQ6Azsmu,2022-09-13 17:25:07,Done,5c92ce9079423a2fd21894a4,2022-10-19 08:09:52,maximiliano Soler,maximiliano_soler,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",5.738101851851852,89.48524305555556,4.973298611111111,0.0004745370370370371,23.186562500000004,1.715972222222222,tQ6Azsmu
+"Reporte producción solicitudes y entregas TD Coppel, TDC Banco y PP Banco por promotor y canal (Para Miguel Mayol)","Se solicita contar con un reporte de **solicitudes y entregas** realizadas de TD Coppel, TDC Banco y PP Banco **por promotor**; Metas por promotor, Producción y % de Cumplimiento cada mes, el cual se debe de enviar al equipo de Miguel Mayol y al equipo de Cesar Carlos Martínez López (Control Financiero).
+
+Se anexa archivo Excel con el formato a desarrollar.",https://trello.com/c/bLbZTyjo,2022-09-14 16:20:20,Done,62b23ad564c589068f2d8a9f,2022-10-05 00:10:45,Jorge Jesús Criollo Esquivel,jcriollo,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",4.698773148148148,103.81797453703705,6.240543981481481,6.944444444444444e-05,5.7870370370370366e-05,9.387233796296297,bLbZTyjo
+ID 25yis45i - Mejora al Indicador de Solicitudes - Función Promotor,Se solicita empatar la lógica de las solicitudes consideradas con el reporte que se envía por parte de German.,https://trello.com/c/25yis45i,2022-09-19 09:25:53,Done,62e80a7947fc560fee79d1b4,2022-10-13 16:47:12,William Rojo Cuén,williamrojocuen,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",0.001550925925925926,95.12599537037035,0.00019675925925925926,0.00017361111111111112,16.682465277777776,7.622083333333333,25yis45i
+Indicador de Atención a Clientes Ropa y Muebles Anual Movil a Agosto 2022,"Se pide apoyo para generar un reporte con los resultados del indicador de atención a Clientes en Ropa y Muebles con información retroactiva del anual móvil, tal como se solicito y se trabajo en este drive: https://docs.google.com/spreadsheets/d/1ngCqPefULQ8OzJPb8GQjXd7wZkTbOz4akmH5h01q3sY/edit?usp=sharing
+
+Solo que en esta ocasión con la nueva logica que inicio a aplicar en agosto 2022 y mostrando los resultados retroactivos de meses anteriores.
+",https://trello.com/c/TRslncCi,2022-09-19 12:23:41,Done,61003403508ef1404653505f,2022-10-03 16:00:56,Fernando Avena Herrera,fernandoavenaherrera,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",1.1814351851851852,105.158125,3.1559375000000003,0.0034606481481481485,8.971747685185186,0.8284375,TRslncCi
+Reproceso de EO de Cajas de Abono y Banco,"**Contexto:**
+
+Cuando se trabajó la Evaluación Objetiva actual con Control de Informes, se generó la regla se negocio de emitir esta EO de Gerente Financiero en tiendas donde se cuenta con planta autorizada del puesto 496.
+
+Al implementar la primera ola, (ver archivo adjunto) se cumplió esta regla de negocio y por esta razón se generaron las EO de Gerente Financiero en las 240 tiendas que se integraron. Sin embargo, durante el mes de agosto mantuvieron la operación con los dos Gerentes (Cajas de Abono y Banco). 
+
+**Decisión negocio** (Miguel Mayol, DOSF - Administración de Operaciones de Servicios Financieros)**:**
+
+Las Evaluaciones se deben para estas **240 tiendas generando las tradicionales de Cajas de Abono y Banco,** tomando como consideración que también se impactarán los niveles de Gerente General, Zona y Regional.
+
+Así mismo, se tendrá la misma situación con las sucursales que se incorporan en la Ola 2 y 3 el 1 de octubre y 1 de noviembre respectivamente, para que se contemple la modificación de la regla de negocio definida previamente.",https://trello.com/c/POAt7U6z,2022-09-20 15:33:29,Done,631b898ea8f00700ca7ec486,2022-10-07 12:42:39,Michelle Noriega Maass,michellenoriegamaass,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",15.795694444444443,101.29582175925925,,0.9446180555555556,4.6296296296296294e-05,0.14100694444444445,POAt7U6z
+ID BmYlN0M7 - Reporte de mejores vendedores que asisten a Convención,"Cada año se selecciona a los mejores vendedores de las Tiendas Coppel que serán invitado a asistir a la convención, derivado de los resultados sobresalientes que tuvieron en el año anterior. 
+
+Para llevar a cabo la selección, se requiere obtener un informe de su desempeño y así lograr aplicar filtros para seleccionarlos y enviados a sus Gerentes regionales para que tome la decisión final o visto bueno.
+
+1. Se requiere un informe como el que se anexa en los documentos, que se refiere a la cantidad de venta de cada colaborador de los puestos de vendedor (que se especifican en cada archivo) de Ropa, Muebles y Zapaterías (un informe por cada centro). 
+
+2 . Los informes se requieren con los resultados de ventas del periodo: Septiembre 2021 al cierre de Agosto 2022.  
+
+3. En los archivos vienen detalladas las columnas de información que se requieren para los informes.
+
+Gracias.",https://trello.com/c/BmYlN0M7,2022-09-21 17:17:01,Done,6328fa31e2b243003d260260,2022-10-19 15:02:10,Elma Concepción Cota Millán,elmaconcepcioncotamillan,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",19.724907407407407,89.19893518518518,4.922534722222222,0.004131944444444444,2.228738425925926,1.0260416666666667,BmYlN0M7
+Reportería Postventa Garantías - Información complementaría,"Se requiere incluir en los archivos de Servicios Garantías las columnas: 
+
+*Falla (Tienda): Falla que captura el colaborador en tienda en un pre-diagnostico (con comentarios del cliente)
+*Falla Real (Taller): Falla que captura el técnico en taller en el diagnostico 
+*Descripción de Refacción: Nombre de la refacción que se uso en taller para reparar el equipo
+*Costo de Refacción: Costo de refacción que se uso en taller para reparar el equipo
+*IMEI: (International Mobile Station Equipment Identity) es un código pregrabado en los teléfonos móviles para su identificación única.",https://trello.com/c/98CwHp91,2022-09-27 10:50:18,Done,63332890cd536601bebc31ba,2022-10-03 09:15:52,Diana Luisa Angulo López,dianaluisaangulolopez,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",0.9677893518518518,105.43943287037037,3.8926273148148147,0.0005671296296296296,4.6296296296296294e-05,1.0722106481481481,98CwHp91
+ID 6llwJtls - [07-09-2022] - 36977-Indicador Omnicanal Tiendas - Ventas de Coppel.com en Tienda y Tienda Física,"Se solicita que las ventas que se muestran en el indicador omnicanal, consideren las devoluciones tanto de coppel.com como en tienda física. Para las ventas de coppel.com, se deben considerar las devoluciones en la tienda donde se realizó la venta. *Para considerar las devoluciones de coppel.com y tienda física, se pueden basar en las lógicas que tiene el siguiente reporte (generado en control de informes) Ranking por Tienda - VentasDev http://reporting.coppel.io/reports/report/InformesDiversos/Direcci%C3%B3n%20Comercial/eCommerce/Ranking%20por%20Tienda%20-%20VentasDev",https://trello.com/c/6llwJtls,2022-09-29 15:34:56,Done,62e81161ab536611b308cfc5,2022-10-13 16:31:49,Blanca Mayely López Camacho,blancamayelylopezcamacho,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",0.005185185185185185,95.13668981481482,6.305023148148148,0.00010416666666666667,9.259259259259259e-05,7.729097222222222,6llwJtls
+ID M4euGiwh - Estructuras Servicios Financieros - SIGO,"Se solicita crear una base con la estructura de servicios financieros conforme se comparte por Banca Comercial, misma que se debe de replicar como set de datos al área de SIGO para implementarla en la herramienta.",https://trello.com/c/M4euGiwh,2022-10-03 08:34:47,Done,5bacfc5de184314092f6150f,2022-10-14 08:01:04,Luis Verdugo,luisverdugo1,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",0.0025925925925925925,94.49137731481483,6.718530092592592,0.00010416666666666667,0.0001273148148148148,4.255231481481482,M4euGiwh
+Anexar/Actualizar Días Pico Septiembre 2022,Subir los días pico al Indicador de Atención en Cajas y Zapaterías para el indicador los tome en cuenta y el resultado sea el que se trabajó con todas las Tiendas (mes Septiembre 2022),https://trello.com/c/gHYGmtwx,2022-10-03 08:35:40,Done,62e81161ab536611b308cfc5,2022-10-04 11:53:52,Blanca Mayely López Camacho,blancamayelylopezcamacho,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",0.18021990740740737,104.32971064814814,0.12193287037037037,0.0006828703703703703,5.7870370370370366e-05,0.8347453703703703,gHYGmtwx
+ID wnqVahr0 - Evaluación Objetiva Gerente Regional SF ( #35724.1),"Se solicita la elaboración de la ""Evaluación Objetiva Gerente Financiero Regional""
+
+El Gerente Financiero Regional es el jefe directo de los Gerentes Zonas SF. Se adjunta formato y lógicas a la petición.
+
+Se considera que la visualización en Tableau mantenga un modelo similar a la Gerente Zona, en la pantalla de portada se muestra un resumen (portada) de los resultados del Gerente Regional. Y en la segunda pantalla, se muestra los resultados por zona de cada indicador.
+",https://trello.com/c/wnqVahr0,2022-10-03 16:27:08,Done,630505b6da11d035e2ca33ce,2022-10-28 13:43:01,tamara aispuro,tamaraaispuro1,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",7.765324074074075,80.2539236111111,0.2214351851851852,0.00035879629629629635,7.895682870370369,9.003229166666666,wnqVahr0
+ID 3AFeF9mU - Retroactivo - Tiendas 4 y 7798 - Simulacros de Emergencia,Realizar un retroactivo para las tiendas 4 y 7798 debido que se excluye el indicador de simulacros de la prioridad de normativos.,https://trello.com/c/3AFeF9mU,2022-10-07 12:37:26,Done,62e80a7947fc560fee79d1b4,2022-10-07 12:41:35,William Rojo Cuén,williamrojocuen,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",0.002731481481481481,101.29658564814815,6.944444444444444e-05,2.3148148148148147e-05,3.472222222222222e-05,2.3148148148148147e-05,3AFeF9mU
+ID zh2vh3HG - [07-10-2022] - Simulador incentivos SF,"Se solicitan las siguientes modificaciones al Simulador de incentivos SF. 
+1) Agregar filtro por bloque (tiendas piloto/testigo ) y filtro por tienda (todas las tiendas) 
+2) En la parte de visualización, que las gráficas muestren la comparativa de piloto/ testigo/ restantes sobre la misma tabla. ",https://trello.com/c/zh2vh3HG,2022-10-07 12:55:37,Done,631fc89dbdf93a012d45803e,2022-10-20 09:13:52,Monica,monica_parissi,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",3.91542824074074,88.44083333333333,1.5933217592592592,0.0002199074074074074,3.472222222222222e-05,7.337002314814814,zh2vh3HG
+ID OtDK8J7o - Ajuste de Lógica para reporte de planes y desempeños ARC,"Solicitamos ajustar la lógica del reporte de planes y desempeños,  ya que la actualización realizada anteriormente no validaba los ARC que estaban confirmados por Categorías y DCF diferentes lo que ocasionaba que el % de participación se viera afectado.",https://trello.com/c/OtDK8J7o,2022-10-10 09:27:55,Done,62a91da7d073cd7f47ac2cdd,2022-10-17 08:01:38,Adriana Garnica Serrano,adrianagarnicaserrano,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",0.3105208333333333,91.49100694444444,6.629155092592593,0.00015046296296296297,0.00011574074074074073,0.0001273148148148148,OtDK8J7o
+ID t8NrUx9W - Ajuste en reporte de Catálogo DCF ARC,"Solicitamos un ajuste en el reporte del Catálogo DCF ya que en algunas tiendas no se muestran todas las Categorías que conforman un ARC, hay diferencia entre la información que muestra el reporte y la que se tiene en el sistema",https://trello.com/c/t8NrUx9W,2022-10-10 09:45:05,Done,62a91da7d073cd7f47ac2cdd,2022-10-17 08:01:37,Adriana Garnica Serrano,adrianagarnicaserrano,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",0.2986342592592593,91.49101851851852,6.629108796296296,0.00017361111111111112,0.00010416666666666667,0.0001273148148148148,t8NrUx9W
+ID Hsywc5oc - Simulador de Incentivos versión 2.0,"Se requiere un reacomodo de los elementos en pantalla del simulador de incentivos, así como añadir nuevas funcionalidades al tablero.",https://trello.com/c/Hsywc5oc,2022-10-11 07:54:57,Done,62ebfc64fca4a43a4e6930b9,2022-10-17 11:20:08,Jorge Arturo Sandoval Palazuelos,jorgearturosandovalpalazuelos1,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",0.002951388888888889,91.3531597222222,6.1392592592592585,8.101851851851852e-05,4.6296296296296294e-05,6.944444444444444e-05,Hsywc5oc
+ID hJi9zlIm - Apagado del rubro Faltante vs Venta Muebles en indicador de zapatería 766-02,"Se solicita el apagado del indicador de % Faltante vs Venta Muebles en Zapatería de la Tienda 766 región VRCZ, te comparto la situación presentada donde taller de servicio cargo por error operativo las siguientes pólizas. 
+
+Te comparto la problemática:
+Gerente de zapatería Gabriela Rojas González del centro 766-02, en su indicador en el rubro del % Faltante vs Venta Muebles de zapatería, bodega 30019 le están cargando las siguientes pólizas que te comparto a continuación.
+
+En el costo unitario le está afectado a la tienda, ya que no compensan 100% en el precio y más porque son dos cambios físicos de artículos como parte de la solución brindada al cliente en un servicio y garantía, las cuales fueron generadas en taller de servicios de la región por un error operativo. 
+
+Donde estas pólizas no se debieron haber generado ya que son cambios con cargo al centro y por error operativo de por parte de taller de servicio las generaron como pólizas de faltante y sobrante de muebles al centro 76602 y no como un gasto del centro, por lo cual surgió un error operativo por parte del taller de servicio, la cual afecto a la tienda este movimiento es sus indicadores. 
+
+Ya que estos números le afectarán 3 meses el resultado de tienda. 
+
+Por lo que se solicita se apague del rubro % Faltante vs Venta Muebles en Zapatería al indicador en los meses de Agosto 2022, Septiembre 2022 y Octubre 2022 para centro de zapatería 766-02 región VRCZ, ya que tiene afectación 3 meses en su centro, esto provocado por un error operativo de por parte de taller de servicios.
+
+Pólizas que realizaron la afectacion al centro 766-02
+Faltante y Sobrante -> Bodega 30019
+•	Póliza 756643 Código 279429 TV LED LG 43UQ8000PSB                                                              
+Costo Unitario: -5,350.18
+•	Póliza 756644 Código 919261764 (284405) -- TV LED HISENSE 43H4000GM                               
+Costo Unitario: 828.00
+
+•	Póliza 758753 Código: 650978 REFRIGERAD SAMSUNG RT38A5930BS/EM 14P                       
+Costo Unitario: -8,597.76
+•	Póliza 758755 Código: 919681447 (646237) -- REFRIGERAD MABE RME360FDMRP0 14P        
+Costo Unitario: 1,655.00
+
+Comentarios Rosario Esther Gabriel Melgarejo (Gerente De Área Cedis)
+En seguimiento al correo que antecede, respecto al tema de la tienda 766, en la imagen se puede apreciar la respuesta por parte de la gerente de tienda, misma que al contactar vía telefónica, así como, en las SA 105515392 y 105516314, comenta que consideraba que  al aceptar el cargo para su tienda se iba al gasto y no mediante pólizas. 
+
+Por parte de los talleres de servicio, a partir del mes de enero de 2022 y como parte de los seguimientos al Servicio post-venta, se comparte con los Gerentes de Tienda los detalles de los SG, que presentan una situación especial o cuando la solución se pudo brindar en tienda con base a la Guía de situaciones especiales y lista de cambios rápidos, herramientas con las que cuentan en tienda, principalmente cuando las condiciones de los artículos no se encuentran dentro de los parámetros de aceptación para Devolución a Proveedor, esta acción, se realiza  por medio de una S.A para que con pleno conocimiento del Gerente de tienda  brinde sus comentarios  y no se realiza ningún movimiento hasta contar con la autorización por escrito para la solución al cliente. 
+
+Con el fin de colaborar en todo aquello que sea posible, quedo a sus órdenes y atenta a sus comentarios.
+
+Comentarios Adriana Basilisa Trejo Martin (Gerente Zona Tiendas)
+Se había abordado en una conferencia en el cual asistió Carlos Castro, La gerente de taller Rosario y el gerente de zona cedís que estaba en turno, en ese Meet se comentó que no era un proceso hacer un cargo del faltante a la tienda por cuestión de un cambio físico, sin embargo, observó que se realizó de nuevo este proceso el cual entiendo no está estipulado en ningún manual.
+
+Sin más por el momento solicito se haga el reverso de las pólizas ya que de no ser así afectará tres meses el indicador de la tienda.
+
+Comprendo y entiendo que no se aplicó lo establecido en la guía del SIP, y me enfocaré para verificar que se haga el proceso correcto dentro de tienda.",https://trello.com/c/hJi9zlIm,2022-10-11 07:56:12,Done,5bacfc5de184314092f6150f,2022-10-28 08:36:39,Luis Verdugo,luisverdugo1,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",6.2284953703703705,80.46668981481481,3.9929976851851854,0.0018634259259259257,0.0002199074074074074,3.61099537037037,hJi9zlIm
+ID FaGJSP9O - [10-10-2022]Actualización de Lista de Colaboradores,"Se solicita actualizar los correos y centros para el informe "" colaboradores División ciencia de datos"", el cual se comparte todos los Lunes.  ",https://trello.com/c/FaGJSP9O,2022-10-11 17:20:32,Done,6283c252744da02c7510fc81,2022-10-11 17:44:39,Emma Guadalupe Quinonez Espinoza,emmaguadalupequinonezespinoza,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",0.011967592592592592,97.08613425925925,0.004432870370370371,0.0001273148148148148,0.00010416666666666667,0.00011574074074074073,FaGJSP9O
+ID mntmYA1e - Reporte de indicadores Diarios para Prueba Piloto Incentivos,"Un tablero con cortes diarios a t-1 que permita el seguimiento puntual del
+desempeño del grupo de sucursales elegidas para la prueba piloto de la nueva evaluación
+objetiva y pago de incentivos. Considerar las siguientes condiciones:
+- El alcance inicial del tablero está orientado al puesto de Cajero de Abonos;
+conforme se vaya haciendo la liberación de pruebas piloto del resto de puestos se
+requerirá de un tablero de seguimiento, con las mismas características, para cada
+uno de los puestos.
+-El tablero se requiere inicialmente para las sucursales que están en fase de
+prueba piloto.
+- El tablero funcionará de manera operativa y permanente para el total de las
+sucursales una vez que se haga la implementación a nivel nacional.
+- Para todas las sucursales que se encuentran en fase de prueba piloto se deberá
+incluir a manera de comparativo visual su correspondiente sucursal espejo.
+- El tablero deberá estar alimentado por un histórico que correrá desde el 1 de
+enero de 2021 hasta la fecha t-1, sin embargo, al inicio de la revisión deberá tener
+precarga la información para los periodos indicados en las especificaciones.",https://trello.com/c/mntmYA1e,2022-10-13 17:04:27,Done,62ebfc64fca4a43a4e6930b9,2022-10-21 11:13:56,Jorge Arturo Sandoval Palazuelos,jorgearturosandovalpalazuelos1,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",0.001099537037037037,87.35747685185186,2.6766435185185187,8.101851851851852e-05,8.101851851851852e-05,5.078680555555556,mntmYA1e
+ID 8mnnPBsH - Actualización de la base de Evaluación Objetiva en el Modelo de Tableau,Actualizar la base que llena el modelo de la Evaluación Objetiva de Tiendas en Tableau.,https://trello.com/c/8mnnPBsH,2022-10-14 10:56:17,Done,62e80a7947fc560fee79d1b4,2022-10-19 10:11:46,William Rojo Cuén,williamrojocuen,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",0.039282407407407405,89.40064814814815,1.9151157407407409,1.1574074074074073e-05,,3.0134143518518517,8mnnPBsH
+ID H7N19dfd - Migrar Evaluación Objetiva GEX de Crystal Reports a Report Builder,Migrar Evaluación Objetiva GEX (Gerente de Exhibición) de Crystal Reports a Report Builder,https://trello.com/c/H7N19dfd,2022-10-14 11:17:34,Done,62e81161ab536611b308cfc5,2022-10-20 09:15:56,Blanca Mayely López Camacho,blancamayelylopezcamacho,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",0.02666666666666667,88.4394212962963,1.0422916666666666,0.00047453703703703704,4.6296296296296294e-05,4.846053240740741,H7N19dfd
+ID abV4DEok - Bases de Datos transaccionales para incentivos de Patio Financiero,"Se requiere la siguiente información para la construcción y análisis de indicadores a proponer en la medición de los incentivos para el Patio Financiero:
+-----------------------------------------------------------------------------
+
+- Información referente a solicitudes de Préstamos BanCoppel, Tarjetas Coppel y Tarjetas de Crédito BanCoppel
+- Información referente a entregas de Préstamos BanCoppel, Préstamos Coppel, Tarjetas Coppel y Tarjetas de Crédito BanCoppel
+- Información referente a apertura de cuentas de captación: Efectiva, Nómina, Pagaré, Inversión creciente, Click
+- Información referente a las transacciones realizadas en las cajas (ventanillas) de BanCoppel
+
+Se requiere generar histórico de 18 meses hacia atrás y actualización mensual en PDA",https://trello.com/c/abV4DEok,2022-10-14 19:30:58,Done,6310ea9621ec8101eab24203,2022-10-28 08:35:46,Diego Lopez Orozco,diegolopezorozco,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",5.94505787037037,80.46731481481481,3.601944444444445,0.00011574074074074073,0.9609375,3.0369444444444444,abV4DEok
+ID Vp7n1f5u - Gasto vs Venta - Operaciones en Muebles,"Adecuar el indicador complementario de operaciones por colaborador (gastos).
+",https://trello.com/c/Vp7n1f5u,2022-10-17 15:25:40,Done,62e80a7947fc560fee79d1b4,2022-10-24 08:39:20,William Rojo Cuén,williamrojocuen,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",0.011724537037037035,84.46483796296296,4.997395833333333,0.0010300925925925926,4.6296296296296294e-05,1.7076273148148147,Vp7n1f5u
+ID OkuxvWUo - ID Vp7n1f5u - Gasto vs Venta - Operaciones en Ropa,"Adecuar el indicador complementario de operaciones por colaborador (gastos).
+",https://trello.com/c/OkuxvWUo,2022-10-19 08:38:32,Done,62e80a7947fc560fee79d1b4,2022-10-24 08:39:24,William Rojo Cuén,williamrojocuen,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",,84.46479166666667,4.9972916666666665,,,0.003310185185185185,OkuxvWUo
+ID 9kwE4PpH - ID Vp7n1f5u - Gasto vs Venta - Operaciones en Cajas,"Adecuar el indicador complementario de operaciones por colaborador (gastos).
+",https://trello.com/c/9kwE4PpH,2022-10-19 08:38:48,Done,62e80a7947fc560fee79d1b4,2022-10-24 08:40:17,William Rojo Cuén,williamrojocuen,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",,84.46417824074074,4.986736111111111,,,0.014293981481481482,9kwE4PpH
+ID GcfhfgEc - ID Vp7n1f5u - Gasto vs Venta - Operaciones en Zapaterías,"Adecuar el indicador complementario de operaciones por colaborador (gastos).
+",https://trello.com/c/GcfhfgEc,2022-10-19 08:39:00,Done,62e80a7947fc560fee79d1b4,2022-10-24 08:40:31,William Rojo Cuén,williamrojocuen,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",,84.46401620370371,4.721018518518519,,,0.2800347222222222,GcfhfgEc
+ID vW4vGRKT - ID Vp7n1f5u - Gasto vs Venta - Operaciones en C-Digital,"Adecuar el indicador complementario de operaciones por colaborador (gastos).
+",https://trello.com/c/vW4vGRKT,2022-10-19 08:39:13,Done,62e80a7947fc560fee79d1b4,2022-10-24 08:40:34,William Rojo Cuén,williamrojocuen,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",,84.46398148148148,4.628564814814815,,,0.3723726851851852,vW4vGRKT
+ID X5aw2EH4 - ID Vp7n1f5u - Gasto vs Venta - Operaciones en Solo Ropa,"Adecuar el indicador complementario de operaciones por colaborador (gastos).
+",https://trello.com/c/X5aw2EH4,2022-10-19 08:42:25,Done,62e80a7947fc560fee79d1b4,2022-10-24 08:40:37,William Rojo Cuén,williamrojocuen,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",,84.46394675925926,3.9659374999999994,,,1.0328125000000001,X5aw2EH4
+ID DkaU4dKr - ID Vp7n1f5u - Gasto vs Venta - Operaciones en Tienda de Remate,"Adecuar el indicador complementario de operaciones por colaborador (gastos).
+",https://trello.com/c/DkaU4dKr,2022-10-19 08:42:33,Done,62e80a7947fc560fee79d1b4,2022-10-24 08:40:41,William Rojo Cuén,williamrojocuen,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",,84.46390046296297,3.8859490740740736,,,1.1127546296296296,DkaU4dKr
+ID WuRpFKvp - ID Vp7n1f5u - Gasto vs Venta - Operaciones en Agencia Motos,"Adecuar el indicador complementario de operaciones por colaborador (gastos).
+",https://trello.com/c/WuRpFKvp,2022-10-19 08:42:51,Done,62e80a7947fc560fee79d1b4,2022-10-24 08:40:45,William Rojo Cuén,williamrojocuen,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",,84.46385416666666,3.8573495370370368,,,1.1411921296296297,WuRpFKvp
+ID kP68cSAi - ID Vp7n1f5u - Gasto vs Venta - Operaciones en Fashion Market,"Adecuar el indicador complementario de operaciones por colaborador (gastos).
+",https://trello.com/c/kP68cSAi,2022-10-19 08:43:01,Done,62e80a7947fc560fee79d1b4,2022-10-24 08:40:48,William Rojo Cuén,williamrojocuen,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",,84.46381944444444,3.7694097222222225,,,1.229050925925926,kP68cSAi
+ID gUYNvixY - Reporte Comparativo de Resultados en la EO Cajas de Abono vs EO por Función Cajero de Abonos,Realizar un reporte con los resultados de la Evaluación Objetiva tradicional de Cajas de Abono y los resultados de la Evaluación Objetiva por Función de Cajero de Abonos para los meses de agosto y septiembre 2022.,https://trello.com/c/gUYNvixY,2022-10-20 16:42:09,Done,62e80a7947fc560fee79d1b4,2022-10-25 09:28:31,William Rojo Cuén,williamrojocuen,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",0.0013194444444444443,83.43068287037038,4.649953703703704,3.472222222222222e-05,3.472222222222222e-05,0.04752314814814815,gUYNvixY
+ID iJ7dctiZ - Actualización de la Base de la Estrúctura Financiera en el Modelo de Evaluación Objetiva por Función,"Intercambiar las bases de la estrúctura de Servicios Financieros utilizados por la tabla oficial, obtenida recientemente.",https://trello.com/c/iJ7dctiZ,2022-10-21 11:50:04,Done,62e80a7947fc560fee79d1b4,2022-10-24 08:40:38,William Rojo Cuén,williamrojocuen,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",0.0010416666666666667,84.46393518518518,2.658912037037037,2.3148148148148147e-05,3.472222222222222e-05,0.20843749999999997,iJ7dctiZ
+"ID n7JOBzlm - ID yl8RfNVK - ID Yji4XeY2 - [21-10-2022] - Actualización informe ""Colaboradores División Ciencia de Datos""","Se solicita actualizar los correos y centros para el informe ""Colaboradores División Ciencia de Datos"" , el cual se comparte todos los días lunes al área de Talento.
+https://docs.google.com/spreadsheets/d/1o49ef7AukNdmKfF1Ed4D8b_RxmYXUua7Pows__jDaaI/edit#gid=686790669",https://trello.com/c/n7JOBzlm,2022-10-24 15:07:43,Done,6283c252744da02c7510fc81,2022-10-28 08:36:53,Emma Guadalupe Quinonez Espinoza,emmaguadalupequinonezespinoza,"GCIA Operación Retail y Servicios Financieros, Inmobiliaria, Diseño y Construcción",0.7268634259259259,80.46655092592592,3.001400462962963,9.259259259259259e-05,6.944444444444444e-05,0.00015046296296296297,n7JOBzlm
+36036.1 - SCORECARD PROVEEDOR ADICIONALES 23 JUNIO 2022,OBJETIVO Ofrecer un modelo de Qlikview de acuerdo a los requerimientos solicitados por el área comercial. JUSTIFICACIÓN: A solicitud de Gerencia Nacional se solicita agregar los adicionales mencionados en esta petición.,https://trello.com/c/NI0n6CTT,2022-08-12 19:40:34,Done,615f3aba4b5e53331e333745,2022-10-13 08:01:04,Carlos Flores,carlosflores389,"GCIA Comercial Muebles (Ventas, Proveedores, eCommerce), Mkt, Exhibi.",25.94134259259259,95.49131944444444,6.685520833333334,,,28.88737268518519,NI0n6CTT
+"Tablero Comercial - Sección ""Resumen Comercial - Ropa + Zapatos""",Generar en el Tablero Comercial la sección de indicadores de Ropa + Zapatos.,https://trello.com/c/4WAM0jmt,2022-08-25 15:43:01,Done,577e8e09c4791fbbbab2a020,2022-10-05 08:01:17,Avelino Verdugo,avelinoverdugo,"GCIA Comercial Muebles (Ventas, Proveedores, eCommerce), Mkt, Exhibi.",,103.49118055555554,26.98028935185185,,,13.699062500000002,4WAM0jmt
+37001.1 - REPORTE_Clientes Cotizan y compran-Cumplimiento por División_por Región,"Se solicita el apoyo para obtener los resultados que se trabajaron para enviar un informe a las tiendas sobre la venta de motos, los clientes cotizan y los clientes cotizan y compran, además del % de cumplimiento general de cotizan y compran.
+
+En lugar de todas las tiendas, tenerlo por División y poder tenerlo también por región y así poder pasar esta información a los gerentes ya que son competitivos y les gusta conocer sus propios números y enfocarse en las áreas a trabajar.",https://trello.com/c/QP2Ky77x,2022-09-09 15:40:13,Done,615f3aba4b5e53331e333745,2022-10-13 08:01:02,Carlos Flores,carlosflores389,"GCIA Comercial Muebles (Ventas, Proveedores, eCommerce), Mkt, Exhibi.",5.07457175925926,95.49137731481483,7.008356481481481,5.9325578703703705,,15.665636574074073,QP2Ky77x
+37049.1 - NUEVO MARGEN RECONSTRUIDO - NUEVA LÓGICA DE CALCULO - Modelo Compras Muebles,"Agregar las mejoras realizadas por Sistemas Compras al modelo de QlikView Compras Muebles en Utilidad Reconstruida y Margen Reconstruido. De acuerdo a la petición 35298.1 Modelo Compras Muebles - Nueva lógica de cálculo del Margen Reconstruido quedaba como pendiente por parte de Sistemas Compras, la modificación del cálculo del indicador tomando en cuenta el importe a recuperar para tiendas de interior y frontera.",https://trello.com/c/wxr3nFad,2022-09-19 10:52:32,Done,615f3aba4b5e53331e333745,2022-10-14 08:01:00,Carlos Flores,carlosflores389,"GCIA Comercial Muebles (Ventas, Proveedores, eCommerce), Mkt, Exhibi.",18.26417824074074,94.49141203703704,6.6166782407407405,,,2.3148148148148147e-05,wxr3nFad
+Copiado de Tabla Para Reporte de Dirección Comercial,"Por medio del presente solicito su apoyo para copiar las siguientes tablas con origen del servidor 10.44.1.141:
+
+IndiceDesempenoMuebles.dbo.Indice1PeriodoCodigosClase
+IndiceDesempenoMuebles.dbo.Indice3PeriodosCodigosClase
+IndiceDesempenoMuebles.dbo.Indice13PeriodosCodigosClase
+ComprasMuebles.dbo.Indice12MesesCodigosClase
+ComprasMuebles.dbo.Indice3MesesCodigosClase 
+ComprasMuebles.dbo.Indice1MesCodigosClase
+
+Se solicita un copiado completo directamente sobre el destino DireccionComercial con el mismo nombre con el que cuentan.
+
+- Periodicidad que se manejará (diaria, mensual)
+Se solicita el copiado de las tablas de manera mensual, los días 7 de cada mes
+
+- Con quien viste el tema de esas fuentes o contacto para revisar las dudas, documentación y demás.
+Los contactos para toda ésta información pudieran ser Karelia Guadalupe Romero Romo o Verenice Parra Angulo, son las encargadas de dichas tablas.",https://trello.com/c/jOsAx9oB,2022-09-20 09:07:28,Done,615f3aba4b5e53331e333745,2022-10-10 09:12:12,Carlos Flores,carlosflores389,"GCIA Comercial Muebles (Ventas, Proveedores, eCommerce), Mkt, Exhibi.",0.0005671296296296296,98.44196759259258,4.056921296296296,,,15.94579861111111,jOsAx9oB
+37104.1 - Set de datos Modelo de Costos logísticos 2022,Contar con los Sets de Datos de costos logísticos actualizados para el el año 2022 como los trabajados en la petición 33178.1 - SETs de Datos para Modelo Costos Logísticos,https://trello.com/c/1B33A4rA,2022-09-27 16:25:59,Done,615f3aba4b5e53331e333745,2022-10-18 08:00:56,Carlos Flores,carlosflores389,"GCIA Comercial Muebles (Ventas, Proveedores, eCommerce), Mkt, Exhibi.",0.0007291666666666667,90.4914699074074,6.668449074074075,,,13.980092592592591,1B33A4rA
+ID zED71ls8 - REPORTE_Clientes Cotizan y compran-Cumplimiento por División_por Región_con Meta,"Se solicita el apoyo para obtener los resultados que se trabajaron para enviar un informe a las tiendas sobre la venta de motos, los clientes cotizan y los clientes cotizan y compran, además del % de cumplimiento general de cotizan y compran.
+
+En lugar de todas las tiendas, tenerlo por División y poder tenerlo también por región y así poder pasar esta información a los gerentes ya que son competitivos y les gusta conocer sus propios números y enfocarse en las áreas a trabajar.
+
+*Al reporte 37001 que ya se está trabajando agregar la columna de ""Meta Total"" que solicitó que se agregara recién Eduardo Zavala de Función compras motos.",https://trello.com/c/zED71ls8,2022-09-27 16:48:08,Done,5be6156a46f7b4199ee0e0e7,2022-10-13 08:01:02,maria de jesus calderon aguilar,mariadejesuscalderonaguilar,"GCIA Comercial Muebles (Ventas, Proveedores, eCommerce), Mkt, Exhibi.",1.6403240740740739,95.49140046296297,7.008113425925925,,,6.985520833333333,zED71ls8
+37049.1 - NUEVO MARGEN RECONSTRUIDO - NUEVA LÓGICA DE CALCULO - Google Sheet,"Agregar las mejoras realizadas por Sistemas Compras al modelo de QlikView Compras Muebles en Utilidad Reconstruida y Margen Reconstruido. De acuerdo a la petición 35298.1 Modelo Compras Muebles - Nueva lógica de cálculo del Margen Reconstruido quedaba como pendiente por parte de Sistemas Compras, la modificación del cálculo del indicador tomando en cuenta el importe a recuperar para tiendas de interior y frontera.",https://trello.com/c/IiLoULp2,2022-09-28 08:29:12,Done,615f3aba4b5e53331e333745,2022-10-05 09:44:36,Carlos Flores,carlosflores389,"GCIA Comercial Muebles (Ventas, Proveedores, eCommerce), Mkt, Exhibi.",2.288391203703704,103.41947916666665,,,,4.763969907407407,IiLoULp2
+"ID C4EJu9VT - 37150 - Ventas Muebles por Estado, Categoria y Clase (Sólo Tienda Física) (Jair Pérez)_Diaria","Se solita la actualización del folio 37108.1 el cual genera una base de datos con ventas a nivel Cartera, Categoría, Crédito, Contado, por canal, etc. Para esta actualización se solicita agregar el campo ""Estado"" y ""Clase de las categorías"" de la Cartera Muebles. Los datos son a nivel diario para los meses Agosto y Septiembre de los años 2019-2022. (Se contempla que los campos de numero de clientes y facturas de clientes a crédito estarán dudosos)",https://trello.com/c/C4EJu9VT,2022-09-29 18:04:24,Done,615f3aba4b5e53331e333745,2022-10-06 07:49:39,Carlos Flores,carlosflores389,"GCIA Comercial Muebles (Ventas, Proveedores, eCommerce), Mkt, Exhibi.",0.0016087962962962965,102.49930555555555,6.571481481481481,,,,C4EJu9VT
+ID 2neTmsAa - Portafolio de Códigos a nivel Categoría-Clase-Familia para Ropa y Muebles,"El motivo de mi correo es solicitar tu ayuda generando una tabla del catálogo de Muebles, Ropa y Zapatos, hasta el nivel familia. Esto para cumplir con el pendiente del Comité de Directores ""Presentar en el próximo comité de categorías, todas las macro categorías y categorías de zapatos, ropa y muebles (incluído marketplace), para oficializar un reporte integral"". 
+Te adjunto una tabla del formato con la información que necesitamos. ",https://trello.com/c/2neTmsAa,2022-10-05 09:41:08,Done,615f3aba4b5e53331e333745,2022-10-14 08:00:59,Carlos Flores,carlosflores389,"GCIA Comercial Muebles (Ventas, Proveedores, eCommerce), Mkt, Exhibi.",0.0022800925925925927,94.49144675925925,6.8218749999999995,,,2.1062962962962963,2neTmsAa
+"ID vKTNrnPX - ID 2neTmsAa - Portafolio de Códigos a nivel CategoríaNivel1, Nivel2 Nivel3 de Marketplace para Ropa y Muebles","El motivo de mi correo es solicitar tu ayuda generando una tabla del catálogo de Muebles, Ropa y Zapatos, hasta el nivel familia. Esto para cumplir con el pendiente del Comité de Directores ""Presentar en el próximo comité de categorías, todas las macro categorías y categorías de zapatos, ropa y muebles (incluído marketplace), para oficializar un reporte integral"". 
+Te adjunto una tabla del formato con la información que necesitamos. 
+
+Debido a que no se tienen homologadas las clases de 1P con 3P, el objetivo es presentar el catálogo en 2 tablas diferentes. Te adjunto como se necesita el formato de Marketplace.",https://trello.com/c/vKTNrnPX,2022-10-05 09:46:06,Done,615f3aba4b5e53331e333745,2022-10-14 08:00:59,Carlos Flores,carlosflores389,"GCIA Comercial Muebles (Ventas, Proveedores, eCommerce), Mkt, Exhibi.",,94.49144675925925,6.821898148148148,,,2.1051041666666666,vKTNrnPX
+ID 2alpRXEH - Integración de Boookins en Reportes para Calculo de Planta Categorías Muebles,Integración de Boookins en Reportes para Calculo de Planta Categorías Muebles,https://trello.com/c/2alpRXEH,2022-10-06 10:33:48,Done,615f3aba4b5e53331e333745,2022-10-07 11:19:02,Carlos Flores,carlosflores389,"GCIA Comercial Muebles (Ventas, Proveedores, eCommerce), Mkt, Exhibi.",0.0014351851851851854,101.35391203703703,1.029976851851852,,,,2alpRXEH
+ID qejJdLj7 - P221006 - Mejoras en el performance del modelo de QlikView SAM,"Para mejorar el performance del modelo QlikView SAM, reducirá el volumen de datos realizando las siguientes acciones:
+
+1.- Excluir el IdTipo=14 correspondiente al ""Pronostico"", ya que es un dato que no se refleja en el modelo.
+
+2.-Modificar el costo de la familia 99901 cuando el IdTipo = 1-Venta TT y 13-Venta TI: AL COSTO SE LE RESTA EL 28.5% DE LOS PESOS CORRESPONDIENTE A LA FAMILIA 99901.
+
+3.- Modificar las expresiones donde se utiliza los IdTipo = 18-Margenes TT y 19-Margenes TI, apuntando a los IdTipo = 1-Venta TT y 13-Venta TI.
+",https://trello.com/c/qejJdLj7,2022-10-06 16:48:45,Done,5c4f87b99f35247b6a3cb894,2022-10-11 17:46:27,alejandro.chaparro,alejandrochaparro4,"GCIA Comercial Muebles (Ventas, Proveedores, eCommerce), Mkt, Exhibi.",0.0012037037037037038,97.08487268518519,,0.6285069444444444,,4.392581018518519,qejJdLj7
+ID pPsY54YK - Petición 37189.1 - Modificación de Reporte Operaciones por Centro TAE,"Necesitamos modificar el reporte de operaciones por centro de TAE con ruta: http://reporting.coppel.io/reports/report/InformesDiversos/Direcci%C3%B3n%20Comercial/Funci%C3%B3n%20Compras%20Muebles/Operaciones%20por%20Centro%20de%20Tiempo%20Aire Para que podamos generar el mismo seleccionando una fecha inicio y fin, nos ayudan a integrar este filtro por favor. De momento necesitamos el reporte para los siguientes periodos: * 15 Abril al 15 de Junio* *15 de Julio al 15 de Septiembre* Si es más sencillo que nos ayuden a generar los dos reportes con los rangos antes mencionados se los agradeceremos o bien nos ayudan a integrar el filtro para seleccionar las fechas y generarlo nosotros.",https://trello.com/c/pPsY54YK,2022-10-06 17:30:00,Done,615f3aba4b5e53331e333745,2022-10-13 09:42:19,Carlos Flores,carlosflores389,"GCIA Comercial Muebles (Ventas, Proveedores, eCommerce), Mkt, Exhibi.",0.726875,95.42107638888889,5.933587962962963,,,0.014756944444444446,pPsY54YK
+ID aGdK7oSx - Copiado tabla para descuentos en Margen Reconstruido V2,"Buen dia Rosario / Rigo,
+
+Se actualizó la información en el origen de la tabla para el copiado que se realiza a la tabla: DireccionComercial..CobroCodigoTienda_DescMargenReconstruido.
+
+Favor de truncar el destino en PDW, realizar un copiado completo y se continúe con el copiado diario programado.
+",https://trello.com/c/aGdK7oSx,2022-10-10 09:44:24,Done,615f3aba4b5e53331e333745,2022-10-21 09:03:39,Carlos Flores,carlosflores389,"GCIA Comercial Muebles (Ventas, Proveedores, eCommerce), Mkt, Exhibi.",0.0008449074074074074,87.44793981481483,,,,10.970856481481482,aGdK7oSx
+ID pK0ROVf9 - Petición 37146.1 - Actualizar reporte de ventas de pantallas,"Actualizar reporte generado con petición 36447, al corte de Agosto de 2022, incluyendo el año 2017",https://trello.com/c/pK0ROVf9,2022-10-10 09:51:40,Done,615f3aba4b5e53331e333745,2022-10-18 08:00:56,Carlos Flores,carlosflores389,"GCIA Comercial Muebles (Ventas, Proveedores, eCommerce), Mkt, Exhibi.",0.006099537037037036,90.49149305555555,6.562662037037037,,,1.354340277777778,pK0ROVf9
+ID SfkQYJs8 - Petición 37147.1 - Reporte de Clientes y Crédito,"Se solicita actualizar el reporte con el corte de Agosto de 2022 y la información del periodo del 2018. El reporte es para conocer el detalle de los clientes activos, así como linea disponible. Este informe en su mayoría ya se genera por parte de Alan Rodríguez Valenzuela de Control de Informes El folio de referencia del reporte anterior es de la petición 36470",https://trello.com/c/SfkQYJs8,2022-10-10 09:55:54,Done,615f3aba4b5e53331e333745,2022-10-18 08:00:55,Carlos Flores,carlosflores389,"GCIA Comercial Muebles (Ventas, Proveedores, eCommerce), Mkt, Exhibi.",0.00318287037037037,90.49150462962963,6.562650462962964,,,1.3543171296296297,SfkQYJs8
+ID 4bY5lRFw - Petición 37118.1 - Reporte de Ventas Categoría Tecnología y Entretenimiento,"Nota: A diferencia del reporte anterior con folio 36446.1, se solicita información desde enero de 2017, así como actualizado al corte de Agosto de 2022. Se necesita información desglosada de las ventas de enero 2017 a la fecha de la categoría de Tecnología y Entretenimiento replicando el mismo en clasificación descendente hasta llegar las pantallas de las familias que representan aquellas de más de 50 pulgadas, de lo anterior se anexa archivo. Como referencia un informe similar ya se le pasa al área de Crédito y en su momento a celulares por parte de Alan Rodríguez Valenzuela de Control de Informes.",https://trello.com/c/4bY5lRFw,2022-10-10 09:59:09,Done,615f3aba4b5e53331e333745,2022-10-18 08:00:54,Carlos Flores,carlosflores389,"GCIA Comercial Muebles (Ventas, Proveedores, eCommerce), Mkt, Exhibi.",0.0009490740740740741,90.49151620370371,6.56263888888889,,,1.3542939814814814,4bY5lRFw
+ID MzDUUJF1 - INFORMACIÓN MOTOS POR CLIENTE,"se realiza la petición para poder realizar análisis del segmento motos que contenga información a nivel cliente sobre los siguientes datos: No. de tienda, Ciudad, contado o crédito, Tipo de cliente, Plazo del crédito, limite de crédito autorizado, SKU, Mes, Año, Monto de intereses a pagar, Precio del artículo, Descuentos, Enganche y monto final a pagar.",https://trello.com/c/MzDUUJF1,2022-10-10 17:54:09,Done,6344ace0aa9c81019078c16b,2022-10-25 08:01:34,jose adrian stamatis ibarra,joseadrianstamatisibarra,"GCIA Comercial Muebles (Ventas, Proveedores, eCommerce), Mkt, Exhibi.",0.032233796296296295,83.49105324074074,6.573287037037037,,,7.982962962962964,MzDUUJF1
+ID sJcrOAF8 - Datos Descuento Tipo 51 Mensual Total Muebles y por Categoría,Datos Descuento Tipo 51 Mensual Total Muebles y por Categoría,https://trello.com/c/sJcrOAF8,2022-10-11 15:56:39,Done,615f3aba4b5e53331e333745,2022-10-18 08:00:53,Carlos Flores,carlosflores389,"GCIA Comercial Muebles (Ventas, Proveedores, eCommerce), Mkt, Exhibi.",0.0008680555555555555,90.49152777777778,6.668738425925926,,,,sJcrOAF8
+ID LuXkq1J9 - Petición 37174.1 - Reporte de Márgenes Categoría completa Transporte y Movilidad,"Un reporte de márgenes para la categoría completa de Transporte y Movilidad del año natural; en el que se pueda ver en los siguientes niveles la misma información del reporte en 3 pestañas: Nivel Marca, Nivel proveedor y Nivel Sku. Es necesario para un análisis de gastos que se realiza para la categoría de Transporte y Movilidad de manera periódica.
+Código.- Todos los códigos de la categoría completa de Transporte y movilidad Artículo.- Artículo correspondiente al código Marca.- La marca correspondiente al código Modelo.- Modelo correspondiente al código Modelo Base.- Modelo base del código Número Proveedor.- Número de proveedor correspondiente al código Razón Social.- Razón social del proveedor correspondiente al código Meses de Venta.- Periodo de tiempo entre la primer venta y la fecha de corte Venta Unidades.- Venta del código en unidades acumulada de enero al mes del corte (considerar devoluciones) Costo Total.- Costo de ventas del código en el periodo Venta Pesos.- Venta del código en pesos acumuladas de enero al mes del corte Utilidad .- Venta Pesos menos Costo Total Servicios de Garantía (SG).- Cantidad de servicios de garantía acumuladas de enero al mes de corte(sin incluir re-incidencias) Reincidencias (R-I).- Cantidad de re-incidencias acumuladas de enero al mes del corte Devoluciones .- Cantidad de devoluciones acumuladas de enero al mes del corte Ordenes de Cambio (OC).- Cantidad de ordenes de cambio acumuladas de enero al mes del corte Costo SG+R-I.- Sumatoria SG y R-I multiplicado por el costo Promedio del código Costo OC+ Dev.- Sumatoria OC y Devoluciones multiplicado por el costo Promedio del código Costo Total SG.- Sumatoria Costo SG+R-I más Costo OC+ Dev Margen Real sin gastos 1er mes de Venta .- Margen real del código del primer mes de venta Margen Real Sin Gastos .- Se obtiene de (Venta Pesos - Costo Total) / Venta Pesos Margen Real Con Gastos .- Se obtiene de (Venta Pesos - Costo Total - Costo total SG) / Venta Pesos * reporte en 3 pestañas: Nivel Marca, Nivel proveedor y Nivel Sku.",https://trello.com/c/LuXkq1J9,2022-10-11 17:04:43,Done,615f3aba4b5e53331e333745,2022-10-21 14:12:19,Carlos Flores,carlosflores389,"GCIA Comercial Muebles (Ventas, Proveedores, eCommerce), Mkt, Exhibi.",2.638773148148148,87.23358796296297,3.240972222222222,,0.0017476851851851852,3.998784722222222,LuXkq1J9
+ID 946pioSJ - Petición 37217.1 - Reporte de Clientes y Crédito,"Se solicita actualizar el reporte con el corte de Agosto de 2022 y la información del periodo del 2017. El reporte es para conocer el detalle de los clientes activos, así como linea disponible. Este informe en su mayoría ya se genera por parte de Alan Rodríguez Valenzuela de Control de Informes El folio de referencia del reporte anterior es de la petición 36470",https://trello.com/c/946pioSJ,2022-10-12 10:44:36,Done,615f3aba4b5e53331e333745,2022-10-20 08:00:56,Carlos Flores,carlosflores389,"GCIA Comercial Muebles (Ventas, Proveedores, eCommerce), Mkt, Exhibi.",0.0016666666666666668,88.49149305555555,6.793263888888888,,,1.091412037037037,946pioSJ
+ID sEIYDH4T - Prueba cálculos de puntos y ranking en Evaluación Objetiva desde qlikview,Prueba cálculos de puntos y ranking en Evaluación Objetiva desde qlikview,https://trello.com/c/sEIYDH4T,2022-10-13 08:54:49,Done,615f3aba4b5e53331e333745,2022-10-21 09:02:59,Carlos Flores,carlosflores389,"GCIA Comercial Muebles (Ventas, Proveedores, eCommerce), Mkt, Exhibi.",0.0004513888888888889,87.44841435185185,,,,8.005219907407406,sEIYDH4T
+ID BG0egAAW - Petición 37244.1 - Actualización de Catalogo de reporte de Agencias Coppel Motos,"Buen día,
+
+Solicito su ayuda en actualizar el catalogo del reporte de ACM, con la intensión de agregar las 2 ACM nuevas en operación.
+
+ACM:
+-7940 San Pedro Pochutla
+-7951 Pátzcuaro
+
+Gracias!",https://trello.com/c/BG0egAAW,2022-10-17 15:06:29,Done,615f3aba4b5e53331e333745,2022-10-21 09:04:00,Carlos Flores,carlosflores389,"GCIA Comercial Muebles (Ventas, Proveedores, eCommerce), Mkt, Exhibi.",0.001990740740740741,87.44770833333332,,,,3.746284722222222,BG0egAAW
+ID 2qzZYKWB - comportamiento por canales de las categorías de muebles - P10 2022,"Hola Carlos, buenas tardes. Espero te encuentres muy bien
+
+El motivo de mi correo es solicitar tu apoyo con compartirme al corte del Periodo 10 los siguientes tableros del comportamiento por canales de las categorías de muebles, ya que se presentarán en el siguiente Comité de Estrategia de Categorías Omnicanales del 25 de octubre. 
+
+Te agradecería me pudieras compartir la información a más tardar el jueves 20 de octubre. ",https://trello.com/c/2qzZYKWB,2022-10-18 12:30:39,Done,615f3aba4b5e53331e333745,2022-10-21 09:01:56,Carlos Flores,carlosflores389,"GCIA Comercial Muebles (Ventas, Proveedores, eCommerce), Mkt, Exhibi.",0.0001388888888888889,87.44914351851851,,,,2.854918981481481,2qzZYKWB
+ID zQiqxajX - ID 2qzZYKWB -  Evaluación objetiva de marketplace - P10 2022,"De igual manera me gustaría solicitar tu apoyo actualizando la siguiente evaluación objetiva de marketplace al periodo 10 2022 por favor.
+
+Te agradecería me pudieras compartir la información a más tardar el jueves 20 de octubre. ",https://trello.com/c/zQiqxajX,2022-10-18 12:32:05,Done,615f3aba4b5e53331e333745,2022-10-21 09:04:31,Carlos Flores,carlosflores389,"GCIA Comercial Muebles (Ventas, Proveedores, eCommerce), Mkt, Exhibi.",,87.44734953703704,2.8463541666666665,,,0.00949074074074074,zQiqxajX
+ID fozTRIix - Reporte de Márgenes T&M,"Un reporte de márgenes para la categoría completa de Transporte y Movilidad del año natural;
+en el que se pueda ver en los siguientes niveles la misma información del reporte en 3
+pestañas: Nivel Marca, Nivel proveedor y Nivel Sku.    --- reporte ya generado ahora se solicita que se añada el Descuento Reconstruible, Margen Reconstruido y Margen Reconstruido con gastos ",https://trello.com/c/fozTRIix,2022-10-21 12:45:00,Done,6352bedf2d861902b5da4473,2022-10-25 17:11:39,Elizabeth Zuñiga Noriega,elizabethzuniganoriega,"GCIA Comercial Muebles (Ventas, Proveedores, eCommerce), Mkt, Exhibi.",0.16291666666666665,83.10906250000001,4.007372685185185,,,0.014884259259259259,fozTRIix
+Replica de estructura de Febrero 2022 a Septiembre de 2022,"Se requiere la réplica de la estructura de la sección 108 Cartera Omnicanal (antes Sistemas Carteras) del mes de Febrero 2022 para el corte de Septiembre 2022. Esto se debe, a que en abril se modificó la estructura del área agregando el nivel jerárquico de Gerente Senior; sin embargo, este cambio no se trabajo hacia las lógicas de los indicadores que genera Control de Informes. Por lo cual, de no hacer la réplica de la estructura de Febrero 2022 a Septiembre 2022 los indicadores de la Evaluación Objetiva de la Gerencia Nacional y del Tablero de División Sistemas no se generarán y no se podrá realizar rendiciones de cuentas con Dirección.",https://trello.com/c/CXsGCmMX,2022-08-25 16:24:46,Done,,2022-10-11 16:48:09,,,GCIA Sistemas,5.1972453703703705,97.12530092592591,7.317534722222223,0.0018287037037037037,8.101851851851852e-05,0.7030902777777778,CXsGCmMX
+Considerar secciones en EO Agosto Sistemas Prog,"Se solicita considerar las siguientes secciones para la generación de evaluaciones objetivas del mes de agosto en Sistemas Prog.
+Debido a cambios en estructuras y nuevas secciones que se agregaron. Se anexa archivo con el detalle de las secciones y subsecciones.",https://trello.com/c/5W7tq6mD,2022-08-31 18:01:59,Done,58755a8a4d8e4aa29d8b4a13,2022-10-11 16:48:07,Yocely Delgado,yocely,GCIA Sistemas,12.751909722222223,97.12533564814815,5.315833333333333,8.867199074074074,4.3119907407407405,9.701770833333333,5W7tq6mD
+Apagar el Indicador de Matrices de Seguimiento (Sistemas IT),"Es necesario que se apague el indicador ""Matriz de Seguimiento"" de las secciones 240 SISTEMAS IT II y 24-SISTEMAS IT I, para la Evaluación Objetiva del mes de Septiembre. ",https://trello.com/c/f4oo44ef,2022-09-22 17:57:58,Done,576bf6b4bc3ff8c3dc0b25bf,2022-10-07 10:17:44,Dania Kristel Osuna Contreras,daniaosuna,GCIA Sistemas,3.912962962962963,101.39645833333333,1.0514814814814815,0.0002777777777777778,7.722418981481481,1.993252314814815,f4oo44ef
+Apagar el Indicador de Matrices de Seguimiento (Infraestructura-Central),"Es necesario que se apague el indicador ""Matriz de Seguimiento"" de las secciones 106-SIST TECNOLOGÍA GC, 233 PROYECTO TECNOLOGIA, 236 SERVICIO INFRAESTRUCTURA IT y 238 SERVICIOS MULTICLOUD para la Evaluación Objetiva del mes de Septiembre.",https://trello.com/c/wJfgZcHG,2022-09-22 18:03:08,Done,576bf6b4bc3ff8c3dc0b25bf,2022-10-07 10:17:46,Dania Kristel Osuna Contreras,daniaosuna,GCIA Sistemas,3.9093518518518517,101.39643518518518,1.0449421296296297,0.0002777777777777778,7.722465277777778,1.9997916666666666,wJfgZcHG
+ID bs1h0cG7 - Replicar jerarquía,Es necesario que se replique la jerarquía del mes de Agosto para la Evaluación Objetiva de la División de Tecnología.,https://trello.com/c/bs1h0cG7,2022-10-03 11:46:17,Done,576bf6b4bc3ff8c3dc0b25bf,2022-10-11 16:48:11,Dania Kristel Osuna Contreras,daniaosuna,GCIA Sistemas,0.18650462962962963,97.12532407407407,7.318726851851852,0.0023958333333333336,0.0001273148148148148,0.7018981481481482,bs1h0cG7
+ID oI8acNBK - Realizar reporte con detalle de resultados de Agosto y Septiembre de indicador Calidad en Producción.,"Favor de realizar reporte del mes de agosto y septiembre del el indicador de Calidad en Producción, esto con el proposito de cotejar resultados.
+
+",https://trello.com/c/oI8acNBK,2022-10-07 17:54:43,Done,5ff5e745e855b16ef0fc2a40,2022-10-24 08:02:16,Thania Alejandra Arredondo Rocha,thaniaalejandraarredondorocha,GCIA Sistemas,2.901412037037037,84.49056712962964,6.942951388888889,0.001712962962962963,0.026412037037037036,6.716087962962963,oI8acNBK
+Modelo de Gastos por Concepto - Reconexión al Datamart Contable,Modificar los sp existentes del modelo de gastos para reemplazar dentro de el las fuentes del stage por las nuevas del datamart.,https://trello.com/c/vfMz5sVm,2022-08-18 10:22:19,Done,61b649de354cf05e929f1b08,2022-10-14 16:11:27,leopoldo.zuniga,leopoldozuniga2,"GCIA Administración, Gastos, Legal, Compras internas",,94.15078703703703,7.306631944444444,,13.936828703703704,35.99899305555556,vfMz5sVm
+Crear Informes de Aviso de Privacidad de Afore,"Buenos días Ricardo, un gusto saludarte.
+
+Es de nuestro interés solicitar la generación de dos reportes (para visualizar en power BI report server), que nos muestre los afiliados Afore que aceptan el Aviso de Privacidad en los siguientes orígenes:
+- Registro de afiliación
+- Menú Afore
+- App Afore Móvil
+
+Lo ideal es que sean semejantes a los dos reportes que ya tenemos para Coppel, adjunto imágenes: (para estos nos apoyó Wilfredo García)
+
+Licitación: Ricardo, Grace, Adolfo y Bastidas. 
+********************* CLIENTES CON AVISO DE PRIVACIDAD ACEPTADOS *********************
+
+Consideraciones: 
+1er etapa. Trabajar en el Conteo (Tablas para la APP que se usan en el RPT producción Afore).
+2da etapa. Detalle - Trazabilidad (QV).
+3er etapa. GI y Analitica: Del total de afiliados / conteo con AP. (Proyecto con Procesar).
+
+Acuerdo: En la APP se consideran los siguientes procesos siguientes como aceptación del AP:
+1. Registro
+2. Traspaso
+3. Autovinculación
+
+* Registros y traspasos por aforeMovil, todos estarian aceptados y se mostrarian.
+* Registros y traspasos es obligatorio, porque concluyo el proceso. QV nos dice la fecha en la que termino el proceso y con procesar se puede obtener mas detalle de información. 
+* Modificación de datos movil... no es obligatorio el AP, no se debe contabilizar.
+
+Transparente el que se aplique aforeWeb (Registro,traspaso), mismos origenes de datos para los conteos. 
+
+Proceso para registrar la petición ante procesar, Adolfo da seguimiento a la solicitud: 
+1. Lanzar solicitud aprocesar
+2. procesar proyectos 
+3. propuesta economica
+4. comite de priorización de proyectos
+5. Fecha estimada
+
+1. Mayo comite
+2. Junio propuesta
+3. Julio Aceptación como proyecto
+
+https://drive.google.com/file/d/1dMWsP82XxL3W8fqMnyYGXhaAth_NhhD_/view?usp=sharing
+
+------------------- Solicitud Grace por correo ------------------------------------
+Es de nuestro interés solicitar la generación de dos reportes (para visualizar en power BI report server), que nos muestre los afiliados Afore que aceptan el Aviso de Privacidad en los siguientes orígenes:
+- Registro de afiliación
+- Menú Afore
+- App Afore Móvil
+
+Lo ideal es que sean semejantes a los dos reportes que ya tenemos para Coppel, adjunto imágenes: (para estos nos apoyó Wilfredo García)
+
+Reporte 1- Detallado de clientes que aceptaron el Aviso
+image.png
+
+Reporte 2- Porcentaje de avance de aceptación
+image.png",https://trello.com/c/FXzauHqT,2022-08-25 11:45:29,Done,61b649de354cf05e929f1b08,2022-10-06 08:00:53,leopoldo.zuniga,leopoldozuniga2,"GCIA Administración, Gastos, Legal, Compras internas",26.973530092592593,102.49145833333334,6.960648148148149,,,7.9098495370370365,FXzauHqT
+Migración de data a base de datos DireccionFinanzas,Migración de los diferentes fuentes de información de la BD Indicador a nuestra BD DireccionFinanzas,https://trello.com/c/OfhdoxRW,2022-09-27 15:35:57,Done,61b649de354cf05e929f1b08,2022-10-14 16:05:30,leopoldo.zuniga,leopoldozuniga2,"GCIA Administración, Gastos, Legal, Compras internas",,94.15496527777778,6.983206018518519,8.71962962962963,0.0012152777777777778,1.3164699074074073,OfhdoxRW
+ID oSCcSKNG - Folio APS 37078	ACTUALIZACION DE INFORME GENERAL DE TIENDAS,,https://trello.com/c/oSCcSKNG,2022-10-05 15:37:48,Done,61b649de354cf05e929f1b08,2022-10-25 09:12:25,leopoldo.zuniga,leopoldozuniga2,"GCIA Administración, Gastos, Legal, Compras internas",19.732372685185183,83.44184027777779,,,,,oSCcSKNG
+ID IxdhGZv2 - Folio APS 36928	Mejora a información general de tiendas,,https://trello.com/c/IxdhGZv2,2022-10-05 15:38:37,Done,61b649de354cf05e929f1b08,2022-10-25 09:12:31,leopoldo.zuniga,leopoldozuniga2,"GCIA Administración, Gastos, Legal, Compras internas",19.731875,83.44177083333334,,,,,IxdhGZv2
+ID USR4EcmB - Folio APS 36541 ORACLE - QV_Margen_EficienciaBonificacionIntCP,,https://trello.com/c/USR4EcmB,2022-10-05 15:39:22,Done,61b649de354cf05e929f1b08,2022-10-25 09:12:37,leopoldo.zuniga,leopoldozuniga2,"GCIA Administración, Gastos, Legal, Compras internas",19.73142361111111,83.44170138888889,,,,,USR4EcmB
+ID 5Eha4bfX - Folio APS #36146	Llenado de Activos Analíticos Fuentes Ventas - QV,,https://trello.com/c/5Eha4bfX,2022-10-05 16:10:16,Done,61b649de354cf05e929f1b08,2022-10-25 09:12:43,leopoldo.zuniga,leopoldozuniga2,"GCIA Administración, Gastos, Legal, Compras internas",19.710034722222222,83.44163194444444,,,,,5Eha4bfX
+ID IFEvOSWb - Folio APS #35475	Reporte Compras Administración de Obras,,https://trello.com/c/IFEvOSWb,2022-10-05 16:10:45,Done,61b649de354cf05e929f1b08,2022-10-25 09:12:48,leopoldo.zuniga,leopoldozuniga2,"GCIA Administración, Gastos, Legal, Compras internas",19.70974537037037,83.44157407407407,,,,,IFEvOSWb
+ID oEmrEV36 - Folio APS #36265	Restructurar tabla CONTROLINFORMES.ADMIN.CAT_M2TIENDA,,https://trello.com/c/oEmrEV36,2022-10-05 16:11:17,Done,61b649de354cf05e929f1b08,2022-10-25 09:12:52,leopoldo.zuniga,leopoldozuniga2,"GCIA Administración, Gastos, Legal, Compras internas",19.709432870370367,83.44152777777778,,,,,oEmrEV36
+ID vZ8t0Tre - Corrección en Reportes de Herramienta de seguimiento,,https://trello.com/c/vZ8t0Tre,2022-10-07 12:03:32,Done,61b649de354cf05e929f1b08,2022-10-11 08:38:14,leopoldo.zuniga,leopoldozuniga2,"GCIA Administración, Gastos, Legal, Compras internas",,97.46557870370368,0.0002199074074074074,,3.8572106481481483,,vZ8t0Tre
+APS: 34485 - STATUS DE ENTREGA DE MOBILIARIO DE EXHIBICION PARA TIENDAS NUEVAS Y REMODELACIONES,,https://trello.com/c/neWE1O0m,2022-10-12 11:02:21,Done,6299460350e58b443a62d7ce,2022-10-13 08:35:08,Armando Beltran Medina,armandobeltran6,"GCIA Administración, Gastos, Legal, Compras internas",,95.46774305555554,,,0.8977662037037036,,neWE1O0m
+ID X09TUKC0 - Revisar y validar el Costo de entrega al cliente por servicio liquidado (Anual Móvil y mensual),Indicador,https://trello.com/c/X09TUKC0,2022-08-03 13:56:26,Product Backlog,61b649de354cf05e929f1b08,2022-10-13 08:35:56,leopoldo.zuniga,leopoldozuniga2,"GCIA Administración, Gastos, Legal, Compras internas",47.11251157407407,14.36175925925926,,14.67837962962963,81.10533564814814,8.986539351851851,X09TUKC0
+36694.1- Reporte Mensual de Planta Sale Vale - Savapre,"Se necesita por parte del negocio contar con un reporte mensual de la planta activa al corte de cada mes de los colboradores activos y cierta informacion detallada.
+
+Empresa
+# Colaborador
+Nombre Colaborador
+Fecha de Nacimiento Colaborador
+Genero
+Estado Civil
+Ultimo nivel de estudios registrado
+# Puesto
+Nombre Puesto
+Fecha Ingreso Grupo
+Fecha Ingreso Puesto
+# Centro
+Nombre Centro
+Ciudad
+Región
+Antiguedad Puesto actual meses
+# Región
+# Sección
+Seccion
+# Gerente del Centro
+Gerente del Centro
+# Puesto Gerente del Centro
+Puesto Gerente del Centro
+Fecha corte",https://trello.com/c/kRVWEtrn,2022-08-10 20:03:36,Done,5d02dfb4dbfd7270cd577891,2022-10-03 09:27:01,Maria Magdalena Gutierrez Armenta,mariamagdalenagutierrezarmenta,GCIA RRHH,25.74,105.43162037037037,6.880601851851853,6.788333333333334,9.11565972222222,5.033333333333333,kRVWEtrn
+Reporte Mensual de puestos Estratégicos,"Se solicita el acceso a un reporte de manera mensual donde indique qué personas tienen el puesto de C- Level, Directores y Divisionales en todo Grupo Coppel, esto es para dar seguimiento a los beneficios que gozan estos puestos ya que hasta el momento no se tiene manera de saber cuando alguien asciende a uno de estos niveles y  por lo tanto no se le informa de los beneficios a los que tienen acceso. ",https://trello.com/c/Rx0MUvgn,2022-08-24 08:11:14,Done,62fd75cc31ed000d1a0be4da,2022-10-11 16:42:24,Jennifer Rivas Salazar,jenniferrivassalazar,GCIA RRHH,33.03315972222222,97.12929398148147,7.294803240740741,0.0003125,7.339803240740742,0.6868981481481482,Rx0MUvgn
+REPORTE DE ALTAS ANUAL MOVIL,"Se requiere contar con un reporte con corte mensual de la informacion de las altas Anual movil con los siguientes datos:
+- Empresa
+- Area
+- Tipo Area
+- # Región Recursos Humanos
+- Región Recursos Humanos
+- # Región Cobranza
+- Región Cobranza
+- # Región Tienda
+- Región Tienda
+- # Sección
+- Sección
+- # Puesto
+- Puesto
+- Altas Anual Movil
+
+Debe de omitirse a los empleados no validos (99)
+Incluir los siguientes filtros dentro del reporte:  Empresa, Sección, Puesto
+",https://trello.com/c/YEjas3jq,2022-08-25 16:25:14,Done,,2022-10-12 18:26:49,,,GCIA RRHH,25.66747685185185,96.05678240740741,2.2640625,0.0001388888888888889,7.339803240740742,6.790115740740741,YEjas3jq
+"Incluir en el Modelo de Tableau la causa de baja""trabajo remoto""","Esta relacionada con la tarjeta : Integrar causa de baja a Repositorio de Información de Juntas de Dirección y/o Comités.
+
+Se requiere que en el modelo de tableau de Recursos humanos en donde se pintan las causas de rotación se incluya en la visualizacion el nuevo motivo de baja ""Trabajo Remoto""
+",https://trello.com/c/M6tEELpu,2022-09-07 18:33:12,Done,5d02dfb4dbfd7270cd577891,2022-10-03 09:27:25,Maria Magdalena Gutierrez Armenta,mariamagdalenagutierrezarmenta,GCIA RRHH,13.634953703703703,105.43138888888889,4.038773148148148,0.0004050925925925926,5.01650462962963,2.930347222222222,M6tEELpu
+Actualizar repositorio Información Indicadores JDD - Comite DO con resultados del mes de Septiembre.,Actualizar el repositorio de Información Indicadores JDD - Comité DO con resultados al corte del mes de Septiembre del 2022.,https://trello.com/c/nz1iTehE,2022-10-05 08:49:09,Done,62f517c88139162f95eca4f1,2022-10-11 16:43:04,Adilene Anaid Rodriguez Uriarte,adileneanaidrodriguezuriarte,GCIA RRHH,1.0199189814814815,97.12888888888888,4.023472222222222,6.944444444444444e-05,0.006261574074074075,1.279386574074074,nz1iTehE
+ID FI6meo3p - Solicitud información Rotación anual móvil,"De parte de Gobierno de incentivos solicitamos su apoyo para completar el archivo adjunto a la solicitud considerando la rotación anual móvil, mes actual y 11 anteriores de los puestos y sección indicados en el archivo.
+
+La solicitud es en base al proyecto de Gobierno de Incentivos, a usarse para los análisis de la situación actual. ",https://trello.com/c/FI6meo3p,2022-10-05 13:14:19,Done,630f761f937348033838e5a2,2022-10-17 11:16:50,Jorge Adrian Arocha Enzastiga,jorgeadrianarochaenzastiga,GCIA RRHH,4.874780092592593,91.35543981481482,0.009375,0.0020949074074074073,3.071875,3.956157407407407,FI6meo3p
+Catálogo de secciones actualizado Septiembre 2022.,"Se actualizó el catálogo de secciones al corte de Septiembre del 2022, por lo que es necesario actualizar todos los activos analíticos que se alimenten de este dato.",https://trello.com/c/RctHkm3q,2022-10-05 16:57:02,Done,62f517c88139162f95eca4f1,2022-10-11 16:43:01,Adilene Anaid Rodriguez Uriarte,adileneanaidrodriguezuriarte,GCIA RRHH,0.681076388888889,97.12892361111112,5.19693287037037,8.101851851851852e-05,0.006238425925925925,0.10592592592592592,RctHkm3q
+ID l2FBxS4g - Solicitud de informe de planta de Prevención Regional,"Replicar reporte ""Informe de Planta Mantenimiento Regional"" con información de la sección 110 Prevención Regional, dudas 6677843808",https://trello.com/c/l2FBxS4g,2022-10-07 09:27:13,Done,62febe991aad95360613c4a1,2022-10-13 08:27:55,Frederick Angulo Velazquez,frederick_angulo,GCIA RRHH,3.3948495370370364,95.47274305555555,1.6647222222222222,5.7870370370370366e-05,0.8991782407407407,,l2FBxS4g
+ID RtZFzkZS - 36368.1 - Caminando Juntos (Segmentación de listados por período de 6 meses),,https://trello.com/c/RtZFzkZS,2022-10-10 12:47:10,Done,5a384ee5d3e6d3977fb436e7,2022-10-18 17:29:28,Carolina Amarillas,carolinaamarillas,GCIA RRHH,,90.09667824074074,5.980451388888889,,0.0034606481481481485,2.21212962962963,RtZFzkZS
+Tablero Temático Recursos Humanos - Re Diseño,"Cambiar la vista de todo el tablero y unificar el diseño a tablero temático 
+",https://trello.com/c/Pti6L1WI,2022-10-10 15:46:26,Done,5a384ee5d3e6d3977fb436e7,2022-10-19 08:01:09,Carolina Amarillas,carolinaamarillas,GCIA RRHH,0.0034027777777777784,89.4913425925926,6.8684259259259255,0.00011574074074074073,4.6296296296296294e-05,1.8048958333333334,Pti6L1WI
+Tablero Temático Recursos Humanos - Vista de planta,,https://trello.com/c/YVeglHNE,2022-10-12 11:10:42,Done,5a384ee5d3e6d3977fb436e7,2022-10-26 09:29:02,Carolina Amarillas,carolinaamarillas,GCIA RRHH,0.0004398148148148148,82.4303125,1.9016666666666666,0.0006828703703703703,0.0017592592592592592,12.024849537037037,YVeglHNE
+Tablero Temático Recursos Humanos - Vista TDC,,https://trello.com/c/ShRrXgTK,2022-10-12 11:13:01,Done,5a384ee5d3e6d3977fb436e7,2022-10-26 09:29:04,Carolina Amarillas,carolinaamarillas,GCIA RRHH,4.6296296296296294e-05,82.43028935185185,1.9016435185185185,0.00032407407407407406,0.0009837962962962964,12.024814814814816,ShRrXgTK
+Automatizar Soluciones de Crédito BanCoppel (Mensual) 1/2,"Construcción de indicadores del Tablero de Servicios Financieros con información del DWH: Soluciones de Crédito BanCoppel
+
+Plan de Automatización (incluye enlace y lógica del indicador)
+https://docs.google.com/spreadsheets/d/19HPJbh3iHYhzd-QDSEBRxTOERzbL3aLunEl6_lMiTSY/edit#gid=0",https://trello.com/c/pnlYuGIO,2022-08-08 11:40:43,Done,6215385da0392b293ab543d6,2022-10-24 08:02:05,Rosario García Félix,rosariogarciafelix,GCIA Tablero de Control,,49.58592592592593,9.54670138888889,2.280497685185185,36.64032407407407,19.300057870370374,pnlYuGIO
+Nuevo diseño vista presentación / explorer conforme a las observaciones del Sr Agustín Coppel,"Se modificará la vista presentación y explorer del Tablero de Control conforme a las observaciones del sr. Agustín.
+
+1.- Cambiar el fondo gris a blanco  de las comunas de compromiso en el mensual y acumulado.
+2.- Cambiar la presentación del % de cumplimiento del compromiso  en mensual y acumulado. Ejemplo : Si el indicador tenia un  cumplimiento del compromiso del  105.3% , va a cambiar a 5.3%. En cambio si es por debajo del 100% , Ejemplo: 95.5% va cambiar a - 4.5%.
+3.- Colocar focos de colores ( verde y rojo ) por indicador conforme al cumplimiento del compromiso.
+
+
+Documento de diseño de vista explorer y presentación
+
+https://docs.google.com/spreadsheets/d/1P4wzlhbe62dZkVV7Y6I1GPk9my93lZdYOwIdlwwFz90/edit?usp=sharing",https://trello.com/c/1Ol6iXKm,2022-08-09 10:47:11,Done,6242583145f70208770f6068,2022-10-17 08:01:40,Paúl Enrique Cabrera López,enriquecabrera01,GCIA Tablero de Control,28.20027777777778,91.49089120370371,6.699675925925926,,21.9358912037037,12.049212962962963,1Ol6iXKm
+Desarrollar Vista Explorer en el tablero grupo Coppel,Desarrollo de vista Explorer de Tablero Grupo Coppel 2.2,https://trello.com/c/ugsIBW68,2022-08-15 11:15:19,Done,5a384dc645d16593e8ad46cf,2022-10-05 08:01:41,Jesús David Aranguré Morales,davidarangure,GCIA Tablero de Control,0.001423611111111111,103.49089120370371,6.93324074074074,6.964976851851852,14.300416666666665,22.66547453703704,ugsIBW68
+Automatizar Afore Coppel (Mensual),"Generar  el indicador KPIC3903 Ingreso Afore Coppel con información del DWH para Tablero de Servicios Financiero (Automatizar)
+Lógica: Son los ingresos por comisiones Afore.
+La información de manera manual para el TSF la comparte Victor Eduardo Larranaga Ramirez.
+
+Plan de Automatización (incluye enlace y lógica del indicador)
+https://docs.google.com/spreadsheets/d/19HPJbh3iHYhzd-QDSEBRxTOERzbL3aLunEl6_lMiTSY/edit#gid=0
+",https://trello.com/c/9Y9S3kv3,2022-08-15 15:54:36,Done,6215385da0392b293ab543d6,2022-10-24 17:03:43,Rosario García Félix,rosariogarciafelix,GCIA Tablero de Control,,84.11447916666667,6.286516203703704,5.012777777777777,4.039583333333334,17.888796296296295,9Y9S3kv3
+Integrar Nuevos Indicadores Muebles - Fase 2 (119),"Se acercó el equipo de Función Muebles para platicar la necesidad que tiene Diego Coppel buscando integrarlos en el tablero comercial. 
+
+448 Indicadores dados de alta al 3 Junio.",https://trello.com/c/N6GfGgg2,2022-09-07 10:58:28,Done,617708e18a47983dab130870,2022-10-03 09:55:25,jesus paul rodriguez benitez,jesuspaulrodriguezbenitez,GCIA Tablero de Control,,105.41194444444444,2.9722222222222223,,12.098946759259258,10.885046296296297,N6GfGgg2
+Agregar cálculos de Inflación en Tablero Omnicanal.,Se agregarán cálculos de inflación al modelo Omnicanal. Para esto se actualizará el extracto actual y se agregará un botón / switch en donde se podrá cambiar el dato para verlo con o sin inflación.,https://trello.com/c/SHArTdk7,2022-09-09 10:54:08,Done,622a9cc39010e04ccc16f273,2022-10-04 16:23:56,Monica Nohely Castro Lugo,monicanohelycastrolugo,GCIA Tablero de Control,3.197118055555556,104.1421412037037,10.996493055555558,,,11.035416666666666,SHArTdk7
+Migración Tablero Diario Grupo Coppel v3.0 - Menú y Panel Izquierdo,"Desarrollo de menú principal, area de títulos y panel izquierdo de indicadores",https://trello.com/c/88fNOtXw,2022-09-21 15:59:25,Done,5a384dc645d16593e8ad46cf,2022-10-12 09:56:33,Jesús David Aranguré Morales,davidarangure,GCIA Tablero de Control,0.9555092592592592,96.41116898148148,2.0021064814814813,0.007187499999999999,4.776018518518518,13.007187499999999,88fNOtXw
+Migración Tablero Diario Grupo Coppel v3.0- Panel Derecho(Parte 1),Desarrollo de Panel superior derecho y gráfico Histórico.,https://trello.com/c/Y6MUxIpw,2022-09-21 16:04:29,Done,5a384dc645d16593e8ad46cf,2022-10-28 16:22:15,Jesús David Aranguré Morales,davidarangure,GCIA Tablero de Control,0.9555092592592592,80.14332175925925,4.229606481481482,0.0037037037037037043,17.823275462962965,14.000243055555556,Y6MUxIpw
+Automatizar 4 Kpis Ecommerce (Ventas) 9 Octubre,,https://trello.com/c/8FDFNTnG,2022-09-23 12:03:55,Done,617708e18a47983dab130870,2022-10-07 12:38:07,jesus paul rodriguez benitez,jesuspaulrodriguezbenitez,GCIA Tablero de Control,2.8883564814814817,101.29896990740741,0.04607638888888888,2.167777777777778,1.9562037037037037,6.965335648148148,8FDFNTnG
+Automatizar Kpis (Nivel de Servicio) 7 Octubre - Ecommerce,,https://trello.com/c/4qn89NXl,2022-09-23 12:07:59,Done,617708e18a47983dab130870,2022-10-12 18:14:51,jesus paul rodriguez benitez,jesuspaulrodriguezbenitez,GCIA Tablero de Control,2.8850231481481483,96.0651273148148,2.2905555555555557,2.1679629629629633,1.9588078703703704,9.952407407407408,4qn89NXl
+Automatizar 8 Indicadores al corte de Agosto - Ecommerce,,https://trello.com/c/a5ymbSsC,2022-09-23 18:14:46,Done,617708e18a47983dab130870,2022-10-03 15:44:49,jesus paul rodriguez benitez,jesuspaulrodriguezbenitez,GCIA Tablero de Control,2.623761574074074,105.16931712962963,0.25501157407407404,2.1715625,1.9580671296296297,2.887465277777778,a5ymbSsC
+"Propuesta Nueva Sección Eficiencia y Productividad , 1/3 José Juan","Conforme al desarrollo del TGC, se solicita la creación de los siguientes indicadores:
+
+Documento Propuesta:
+
+[https://docs.google.com/spreadsheets/d/1I4l6sppPjKW_Anr4cwvucNyKfC6QuMEpFKUNvDtgsNY/edit#gid=0](https://docs.google.com/spreadsheets/d/1I4l6sppPjKW_Anr4cwvucNyKfC6QuMEpFKUNvDtgsNY/edit#gid=0 ""smartCard-inline"")",https://trello.com/c/VwyYKE6G,2022-09-28 14:47:09,Done,615f7881e7055586c22cb732,2022-10-25 08:02:21,José Juan,jose_juan_herrera,GCIA Tablero de Control,,83.49048611111111,6.557268518518519,0.8040509259259259,1.0894907407407406,18.268078703703704,VwyYKE6G
+Automatizar Ingresos Mensual (Diego Cruz) 3/3_1,"Esta ficha se deriva de la tarjeta llamada _**Automatizar Ingresos (Mensual)**_
+de acuerdo a las temáticas de @diegocruzterrones ",https://trello.com/c/xwVpLoES,2022-10-17 11:25:51,Done,6215385da0392b293ab543d6,2022-10-24 08:02:04,Rosario García Félix,rosariogarciafelix,GCIA Tablero de Control,,84.49071759259259,6.69650462962963,,,0.16196759259259258,xwVpLoES
+34116 - Reporte de indicadores CDC,"Actualmente se está concentrando mercancía Nacional e Importación de Muebles, en Cedis Importación y Nacionales bajo la lógica del CDC (Cedis Dosificador Concentrador) y una forma de monitorear el comportamiento de los códigos que están dentro de esta lógica y el beneficio que este proyecto está reflejando a corto y largo plazo, es mediante la generación de un reporte de indicadores que se le compartiría al área comercial
+
+Se necesita un reporte con la información de 4 indicadores a nivel SKU-Cedis y al corte de mes, los cuales son existencias, ventas, traspasos y agotado de las regiones.
+",https://trello.com/c/hymfuyTL,2022-08-05 16:45:56,Done,5a384ee5d3e6d3977fb436e7,2022-10-17 10:19:46,Carolina Amarillas,carolinaamarillas,GCIA Cadena de Suministro,57.58540509259259,91.39498842592592,,15.120775462962964,0.005046296296296296,0.020601851851851854,hymfuyTL
+29353 - Informe de traspasos Sistema Inventario Tecnología,"Se requiere un informe mensual de los traspasos de los artículos de centros del sistema de inventario tecnología, de los almacenes hacia centros. En formato editable, ya que de esta información se realizaran diferentes análisis.",https://trello.com/c/F82kImwp,2022-08-22 18:09:24,Done,5b8d8b1accaad285f03e3b73,2022-10-17 15:32:58,José Carlos Zenteno Félix,josecarloszentenofelix,GCIA Cadena de Suministro,40.929467592592594,91.17751157407407,,14.934594907407407,0.0005555555555555556,0.026747685185185183,F82kImwp
+Actualizar Gastos Vs Unidades Leídas del Picking con la lógica del nuevo sistema de contabilidad,"Actualizar Costo por Surtir 10,000 Unidades - Frontera con la lógica del nuevo sistema de contabilidad",https://trello.com/c/ndgegC9j,2022-08-26 11:40:21,Done,5b8d8b1accaad285f03e3b73,2022-10-10 11:12:46,José Carlos Zenteno Félix,josecarloszentenofelix,GCIA Cadena de Suministro,5.328726851851852,98.35820601851852,,22.618020833333333,0.000775462962962963,17.03332175925926,ndgegC9j
+Reporte de sobrantes y faltantes en cedis regionales ropa y muebles,"Se requiere un reporte de los indicadores de faltantes y sobrantes que muestra la Evaluación Objetiva de las secciones de cedis productiva (Loteo, Rack, Piso) y cedis ropa (Colgado, Doblado, Zapatería y Picking) con la información concentrada de todos los cedis con una periodicidad mensual.",https://trello.com/c/6nPNA4fA,2022-09-21 15:58:51,Done,5b8d8b1accaad285f03e3b73,2022-10-06 15:47:37,José Carlos Zenteno Félix,josecarloszentenofelix,GCIA Cadena de Suministro,,98.3590162037037,0.00032407407407407406,1.7886805555555554,,17.011550925925924,6nPNA4fA
+37079.1 - APAGADO DE INDICADORES ZAPATO (SECCIÓN Y PICKING CEDIS HLLO),"
+Descripción de la petición
+
+Se solicita que la evaluación objetiva, Indicadores evaluativos y complementarios de los centros 215901 y 215906 sean apagados de manera temporal en los meses de octubre, noviembre y diciembre 2022 debido a por temas de capacidad actual de Cedis y las proyecciones que se tienen para la temporada, se tomó la decisión de no enviar el zapato a HLLO en este año, retomando las actividades en el 2023.",https://trello.com/c/PyDZq39p,2022-09-23 15:58:38,Done,5a384ee5d3e6d3977fb436e7,2022-10-10 11:17:31,Carolina Amarillas,carolinaamarillas,GCIA Cadena de Suministro,16.804780092592594,98.35494212962963,,,,,PyDZq39p
+Ajuste centralizador responsable Evaluación Objetiva Distribución,Se solicitó cambiar el centralizador responsable de la sección de distribución crossdocking a Marco Antonio Ahumada en la Evaluación Objetiva.,https://trello.com/c/SWCidjsr,2022-10-03 11:51:21,Done,5b8d8b1accaad285f03e3b73,2022-10-03 11:55:27,José Carlos Zenteno Félix,josecarloszentenofelix,GCIA Cadena de Suministro,,105.32861111111112,,,,0.002847222222222222,SWCidjsr
+ID OP2N6r9Z - Reporte de sobrantes y faltantes en cedis regionales ropa y muebles - Automatización,"Se requiere un reporte de los indicadores de faltantes y sobrantes que muestra la Evaluación Objetiva de las secciones de cedis productiva (Loteo, Rack, Piso) y cedis ropa (Colgado, Doblado, Zapatería y Picking) con la información concentrada de todos los cedis con una periodicidad mensual.",https://trello.com/c/OP2N6r9Z,2022-10-10 11:12:13,Done,5a39340780c7018abc846f6b,2022-10-26 09:32:46,Uriel López,uriellopez4,GCIA Cadena de Suministro,6.965439814814815,82.42771990740741,4.733101851851852,2.181574074074074,,2.0508217592592595,OP2N6r9Z
+ID aSEpaHK5 - Indicadores $ Costo por Servicio Liquidado Ropa para comité,"Se solicita por parte de la función de transporte actualizar los indicadores correspondiente a Costo por Servicio Liquidado Ropa para Septiembre 2022
+",https://trello.com/c/aSEpaHK5,2022-10-13 18:33:59,Done,5a384ee5d3e6d3977fb436e7,2022-10-20 08:00:54,Carolina Amarillas,carolinaamarillas,GCIA Cadena de Suministro,0.0015624999999999999,88.49152777777778,6.558657407407408,4.6296296296296294e-05,5.7870370370370366e-05,3.472222222222222e-05,aSEpaHK5
+ID WfYWId5I - Indicadores Cobro por servicios entregados por compra mínima y zona extendida,"Actualización de los indicadores que se crearon para la función de Transporte, se adjunta ejemplo
+",https://trello.com/c/WfYWId5I,2022-10-13 18:38:27,Done,5a384ee5d3e6d3977fb436e7,2022-10-24 08:01:44,Carolina Amarillas,carolinaamarillas,GCIA Cadena de Suministro,0.0014699074074074074,84.49094907407407,6.912974537037036,2.3148148148148147e-05,2.3148148148148147e-05,3.643148148148148,WfYWId5I
+Dashboard Venta Club Protección,"Generación de dashboard para visualizacion de ventas de cada club de protección (familiar, salud, moto, víal)
+
+
+Actualización:
+-Se esta buscando la manera de hacer cruce de información para reconocer RC y Plus
+El tablero ya se encuentra en producción
+",https://trello.com/c/DnHx8bTV,2022-08-23 14:43:16,Sprint Backlog (En Proceso),62aa1026422f1f2832715a65,2022-10-04 15:23:57,Karla Berenice Roldan Reyes,berenice_roldanreyes,GCIA Seguros,,0.00019675925925925926,0.00015046296296296297,,,146.21167824074072,DnHx8bTV
+Descargos Muebles,"Gestionar los datos de los descargos por robo y/o fenomes metereologicos, este dato se requiere para conectar los descargos de cada centro dentro de los indicadores de la evaluación objetiva. Se esta llevando a cabo con Emigdio Valencia del área de cadena de suministros. ",https://trello.com/c/mmMqLYnq,2022-08-10 16:31:08,Done,61b649de354cf05e929f1b08,2022-10-25 07:56:59,leopoldo.zuniga,leopoldozuniga2,"GCIA Finanzas, Contabilidad",7.736956018518519,83.49414351851853,6.641238425925926,0.00047453703703703704,,61.2642824074074,mmMqLYnq
+"Arise: Unión Carteras (Ropa, Prestamos Personales, Muebles, Reestructura)","Se requiere hacer el decodificado para la union de carteras en el ambiente PDW, con base a la informacion que nos compartieron de AKYA.
+
+‌",https://trello.com/c/N3R4xzYD,2022-08-10 16:31:56,Done,61b649de354cf05e929f1b08,2022-10-05 08:01:50,leopoldo.zuniga,leopoldozuniga2,"GCIA Finanzas, Contabilidad",,103.49077546296297,47.92427083333333,,,7.721493055555556,N3R4xzYD
+"Margen Neto, sólo Argentina, sólo México","Separar los modelos de México y Argentina.
+
+1. Crear  Histórico de MX para que en el modelo en blanco actual de Oracle se pueda tener tener el modelo de México Completo.
+ 
+2. Dar de Baja del Modelo de Margen Neto Blanco (viejo) los datos de MEX para que quede solamente el dato de ARG.
+",https://trello.com/c/pTm3RVLD,2022-08-10 16:33:06,Done,61b649de354cf05e929f1b08,2022-10-25 08:31:56,leopoldo.zuniga,leopoldozuniga2,"GCIA Finanzas, Contabilidad",,83.4698726851852,27.62332175925926,,1.9649999999999999,46.077534722222225,pTm3RVLD
+Margen en Blanco - Migración Oracle,Conectar el Margen Neto a Oracle con todos sus componentes.,https://trello.com/c/JJ4wuyvJ,2022-08-10 16:33:46,Done,61b649de354cf05e929f1b08,2022-10-05 08:01:50,leopoldo.zuniga,leopoldozuniga2,"GCIA Finanzas, Contabilidad",,103.49079861111112,55.6444675925926,,,,JJ4wuyvJ
+Margen en Blanco - M2 Ajustes,"Validar el campo de Metros Cuadrados de los modelos de Margen para que no existan Tiendas sin asignación de M2.
+
+NOTA: Esta actividad pega directamente con el tema de OPV.",https://trello.com/c/CgPTqZqc,2022-08-18 09:35:03,Done,61b649de354cf05e929f1b08,2022-10-25 08:34:14,leopoldo.zuniga,leopoldozuniga2,"GCIA Finanzas, Contabilidad",,83.46829861111111,4.996203703703704,,36.25623842592592,26.70532407407407,CgPTqZqc
+Margen Neto y en Blanco - ajustes de automatización desde la consola,"Se requiere realizar la modificación de los Archivos ETL y FrontEnd para que al ejecutar el modelo desde el Management Console de QlikView éste concluya sin conflictos, ésto tiene como finalidad ejecutar el último Procedimiento almacenado para la creación de tablas de la información de carteras del Margen.",https://trello.com/c/mC6vBJo0,2022-08-18 09:38:07,Done,61b649de354cf05e929f1b08,2022-10-05 08:01:50,leopoldo.zuniga,leopoldozuniga2,"GCIA Finanzas, Contabilidad",,103.49079861111112,11.684340277777778,,35.04623842592593,1.2025578703703703,mC6vBJo0
+"Activación de Producto: Segmento, Categoría, Departamento, Clase y Familia",Alinear el registro de DCFs y Categorías desde el Sistema de Inventarios para que en la contabilidad de Oracle se registre el detalle de ambos y se puedan obtener los datos contables descritos por Categoría (DCFs). ,https://trello.com/c/RkkSC9nz,2022-08-18 10:10:18,Done,61b649de354cf05e929f1b08,2022-10-04 09:02:24,leopoldo.zuniga,leopoldozuniga2,"GCIA Finanzas, Contabilidad",,104.44873842592591,6.9585995370370375,,39.99086805555556,0.0033796296296296296,RkkSC9nz
+Reproceso automático de categorías,"Reprocear la información de categorías de al menos los últimos tres años, esto es el actual y dos años hacia atrás de manera automática
+
+Antecedente:
+
+Actualmente de correr 4 procesos manuales cada mes para cargar los datos del mes en turno y pueda ser consultado el informe,
+
+Los pasos a seguir: Unificar, migrar y optimizar los procesos en uno solo, migrar el informe en reporting a la nueva ruta de finanzas, modificar diseño y por ultimo establecer dentro del proceso/cargado la regla de que cuando exista una nueva categoria se debe reprocesar la historia y de no haber cargar el mes mas reciente.",https://trello.com/c/wvV9A9wW,2022-09-01 09:51:36,Done,61b649de354cf05e929f1b08,2022-10-11 08:39:06,leopoldo.zuniga,leopoldozuniga2,"GCIA Finanzas, Contabilidad",11.290891203703703,97.46493055555555,6.986759259259259,10.96722222222222,,10.704780092592593,wvV9A9wW
+Reporte recurrente de Celulares Proyecto Apple,"De: Anna Giselle Cardenas Cazares
+Actualmente se está desarrollando un proyecto para incrementar la venta de IPhone en Coppel por parte de la categoría de celulares, por lo que se está trabajando en un modelo  para medir la utilidad de dicho proyecto, sin embargo, requerimos la siguiente información para poder avanzar:
+Venta neta y costo de venta de los SKUs que se enlistan en el documento adjunto de manera mensual a partir de enero 2021 a agosto 2022. 
+La información se requiere de manera separada por Telcel y Telefonía Libre (en el documento se etiquetan los SKUs) 
+Entiendo que no en todos los conceptos podemos obtener la información a nivel SKU, pero el mayor detalle que nos puedan compartir sería de mucha utilidad. ",https://trello.com/c/f0dRhdqr,2022-09-21 08:32:40,Done,6262e4cee24c33230ef9f064,2022-10-06 08:00:57,Moises Corrales Esparza,moy_corrales,"GCIA Finanzas, Contabilidad",8.366944444444444,102.49144675925925,6.587002314814814,0.0009143518518518518,0.0004050925925925926,0.022708333333333334,f0dRhdqr
+Unificación,En base a los 4 procesos preexistentes se debe generar uno solo que cumpla la función de proveer el dataset para el reporte,https://trello.com/c/KkGPKWmv,2022-09-22 08:11:28,Done,61b649de354cf05e929f1b08,2022-10-11 08:39:10,leopoldo.zuniga,leopoldozuniga2,"GCIA Finanzas, Contabilidad",,97.46490740740741,6.986701388888889,1.3278935185185186,,10.704641203703703,KkGPKWmv
+Migración,Se debe migrar el proceso unificado y el dataset (tabla) que genera a la base Dirección Finanzas y en el caso del dataset dentro del esquema apropiado (Reporting),https://trello.com/c/okslEyvu,2022-09-22 08:15:54,Done,61b649de354cf05e929f1b08,2022-10-11 08:39:14,leopoldo.zuniga,leopoldozuniga2,"GCIA Finanzas, Contabilidad",,97.46486111111112,6.9866782407407415,1.3248842592592591,,10.704641203703703,okslEyvu
+Optimización,Generar un reporte con un aspecto visual apropiado y conectado a datos mejor ordenados,https://trello.com/c/02EZZ91r,2022-09-22 08:16:07,Done,61b649de354cf05e929f1b08,2022-10-11 08:39:16,leopoldo.zuniga,leopoldozuniga2,"GCIA Finanzas, Contabilidad",,97.46483796296296,6.986608796296296,1.324837962962963,,10.704629629629629,02EZZ91r
+Depurar todos los procesos y dejar el último nada mas,,https://trello.com/c/SCPBXih2,2022-09-22 10:46:40,Done,615f7881e7055586c22cb732,2022-10-05 08:01:49,José Juan,jose_juan_herrera,"GCIA Finanzas, Contabilidad",,103.4908449074074,12.884363425925926,,,0.0011574074074074076,SCPBXih2
+Ejecutar desde Escritorio Remoto y verificar que corrar sin ningún problema para Control de Gastos,"Lo que se requiere es generar una tarea en la consola de administración de QlikView para que se corra el último procedimiento almacenado y se cargue en automático en el modelo del Access Point de QV, ésto para que en cuanto se tengan los datos de cartera cualquier usuario con licencia de QV pueda ejecutar el modelo desde la consola de admon y no tener que abrir el archivo manualmente y darle recargar.",https://trello.com/c/YHimU2W8,2022-09-22 10:47:08,Done,615f7881e7055586c22cb732,2022-10-07 15:59:20,José Juan,jose_juan_herrera,"GCIA Finanzas, Contabilidad",,101.1592361111111,,,,15.216805555555554,YHimU2W8
+Validar,,https://trello.com/c/GUmCL7IX,2022-09-22 14:50:05,Done,615f7881e7055586c22cb732,2022-10-07 15:59:27,José Juan,jose_juan_herrera,"GCIA Finanzas, Contabilidad",,101.15915509259258,,,,15.048171296296296,GUmCL7IX
+"Arise: Transacciones (abonos, ventas y servicios de garantía)","Se requiere hacer el decodificado de las transacciones para el PDW, con base a la informacion que nos compartieron de AKYA.
+
+‌",https://trello.com/c/aece1Xvb,2022-10-03 10:40:39,Done,615f71d235806a64ce61a313,2022-10-06 08:37:29,Jesús Paredes,jesusparedes26,"GCIA Finanzas, Contabilidad",,102.46608796296296,2.9144675925925925,,,,aece1Xvb
+Arise: Remediación Transacciones (Muebles),"Se requiere hacer la remediación al campo de “Cliente_Factura”, para poder quitar el Digito Verificador, ya que al momento de hacer la validación se ve que los resultados son inconsistentes para el caso de la cartera Muebles.
+
+‌",https://trello.com/c/9KoGrgDJ,2022-10-03 10:42:41,Done,615f71d235806a64ce61a313,2022-10-06 08:37:34,Jesús Paredes,jesusparedes26,"GCIA Finanzas, Contabilidad",,102.46603009259259,2.913113425925926,,,,9KoGrgDJ
+ID vEYagPS4 - Centro de Comando - Eliminar IVA a columna de Abono,Se solicita eliminar el IVA de los montos de abono de las pestañas de ventas credito ropa prepago (mensual) y ventas credito muebles  prepago (mensual) - columna I como referencia -,https://trello.com/c/vEYagPS4,2022-10-03 13:04:21,Done,61b649de354cf05e929f1b08,2022-10-27 09:02:36,leopoldo.zuniga,leopoldozuniga2,"GCIA Finanzas, Contabilidad",7.816689814814815,81.44865740740741,0.00011574074074074073,,16.01517361111111,0.0001388888888888889,vEYagPS4
+ID 2T4EX0CQ - Folio APS # 36542 ARISE - Ajustes Cartera Préstamos Muestra 1500 Clientes,Realizar ajustes a la muestra de clientes para el proyecto,https://trello.com/c/2T4EX0CQ,2022-10-05 15:40:24,Done,61b649de354cf05e929f1b08,2022-10-10 12:46:51,leopoldo.zuniga,leopoldozuniga2,"GCIA Finanzas, Contabilidad",4.769606481481482,98.29292824074075,,0.10987268518518518,,,2T4EX0CQ
+ID ih0C8aI6 - Folio APS # 36556	ORACLE - DireccionFinanzas.dbo.QV_Oracle_Margen_GastosporCentroMN,"Como parte del proyecto de Migración del nuevo sistema contable Oracle, hay que migrar cada uno de los 34 procesos ue se usan para estos modelos donde por cada proceso de debe de:
+
+- Sacar una copia del mismo, renombrar, cambiarlo de bd.
+- Dentro del mismo todas las tablas que se formen debe apuntar a una nueva bd de finanzas donde quedaran de manera oficial.
+- Donde se usen las fuentes del sistema legado es decir las tablas de gastos debemos suplirlas por las nuevs que se formron del sistema contable oracle.
+",https://trello.com/c/ih0C8aI6,2022-10-05 15:41:17,Done,61b649de354cf05e929f1b08,2022-10-10 12:46:58,leopoldo.zuniga,leopoldozuniga2,"GCIA Finanzas, Contabilidad",4.772754629629629,98.29284722222224,,0.10619212962962964,,,ih0C8aI6
+ID UGWOZfL7 - Folio APS # 36555	ORACLE - DireccionFinanzas.dbo.QV_Margen_ReglasProrrateoMN,"Como parte del proyecto de Migración del nuevo sistema contable Oracle, hay que migrar cada uno de los 34 procesos ue se usan para estos modelos donde por cada proceso de debe de:
+
+- Sacar una copia del mismo, renombrar, cambiarlo de bd.
+- Dentro del mismo todas las tablas que se formen debe apuntar a una nueva bd de finanzas donde quedaran de manera oficial.
+- Donde se usen las fuentes del sistema legado es decir las tablas de gastos debemos suplirlas por las nuevs que se formron del sistema contable oracle.",https://trello.com/c/UGWOZfL7,2022-10-05 15:42:34,Done,61b649de354cf05e929f1b08,2022-10-10 12:47:15,leopoldo.zuniga,leopoldozuniga2,"GCIA Finanzas, Contabilidad",4.860451388888889,98.29265046296295,,0.017800925925925925,,,UGWOZfL7
+ID q0Qup5fH - Folio APS #36537	Actualizar centro en informes con suscripción,Actualizar los centros nuevos a los informes con suscripción,https://trello.com/c/q0Qup5fH,2022-10-05 15:43:05,Done,61b649de354cf05e929f1b08,2022-10-10 12:47:08,leopoldo.zuniga,leopoldozuniga2,"GCIA Finanzas, Contabilidad",4.774224537037036,98.29273148148148,,0.10358796296296297,,,q0Qup5fH
+ID c1E2QzP8 - Folio APS #36553	ORACLE - DireccionFinanzas.dbo.QV_Margen_CatMetrosCuadradosMueblesMN,"Como parte del proyecto de Migración del nuevo sistema contable Oracle, hay que migrar cada uno de los 34 procesos ue se usan para estos modelos donde por cada proceso de debe de:
+
+- Sacar una copia del mismo, renombrar, cambiarlo de bd.
+- Dentro del mismo todas las tablas que se formen debe apuntar a una nueva bd de finanzas donde quedaran de manera oficial.
+- Donde se usen las fuentes del sistema legado es decir las tablas de gastos debemos suplirlas por las nuevs que se formron del sistema contable oracle.",https://trello.com/c/c1E2QzP8,2022-10-05 15:43:45,Done,61b649de354cf05e929f1b08,2022-10-10 12:47:22,leopoldo.zuniga,leopoldozuniga2,"GCIA Finanzas, Contabilidad",4.859675925925926,98.29256944444444,,0.01783564814814815,,,c1E2QzP8
+ID bQ6zsTmf - Folio APS# 36565	ORACLE - DireccionFinanzas.dbo.QV_Margen_MargenNetoRopaMN,"Como parte del proyecto de Migración del nuevo sistema contable Oracle, hay que migrar cada uno de los 34 procesos ue se usan para estos modelos donde por cada proceso de debe de:
+
+- Sacar una copia del mismo, renombrar, cambiarlo de bd.
+- Dentro del mismo todas las tablas que se formen debe apuntar a una nueva bd de finanzas donde quedaran de manera oficial.
+- Donde se usen las fuentes del sistema legado es decir las tablas de gastos debemos suplirlas por las nuevs que se formron del sistema contable oracle.",https://trello.com/c/bQ6zsTmf,2022-10-05 15:44:35,Done,61b649de354cf05e929f1b08,2022-10-10 12:47:29,leopoldo.zuniga,leopoldozuniga2,"GCIA Finanzas, Contabilidad",4.859143518518519,98.29248842592591,,0.017858796296296296,,,bQ6zsTmf
+ID JJvgLRzo - Folio APS #36575	DireccionFinanzas.dbo.QV_Margen_EnvioDeDineroPagoServicios_3,"Como parte del proyecto de Migración del nuevo sistema contable Oracle, hay que migrar cada uno de los 34 procesos ue se usan para estos modelos donde por cada proceso de debe de:
+
+- Sacar una copia del mismo, renombrar, cambiarlo de bd.
+- Dentro del mismo todas las tablas que se formen debe apuntar a una nueva bd de finanzas donde quedaran de manera oficial.
+- Donde se usen las fuentes del sistema legado es decir las tablas de gastos debemos suplirlas por las nuevs que se formron del sistema contable oracle.",https://trello.com/c/JJvgLRzo,2022-10-05 15:45:11,Done,61b649de354cf05e929f1b08,2022-10-10 12:47:35,leopoldo.zuniga,leopoldozuniga2,"GCIA Finanzas, Contabilidad",4.858796296296297,98.29241898148149,,0.017870370370370373,,,JJvgLRzo
+ID JamwVUaS - Modelo de Gastos - Oracle [Reconexión Contable],"Conectar el Modelo de Gastos del sistema legado al nuevo sistema contable oracle.
+Usuario: Finanzas",https://trello.com/c/JamwVUaS,2022-10-06 08:49:46,Done,61b649de354cf05e929f1b08,2022-10-14 15:27:01,leopoldo.zuniga,leopoldozuniga2,"GCIA Finanzas, Contabilidad",0.00018518518518518518,94.18170138888888,7.2766319444444445,,0.3715740740740741,0.627349537037037,JamwVUaS
+ID kCEzjexM - Solicitud de permisos para acceder al reporte de Estatus ERH,"Se solicitan por parte de Anahi Castillo extender los accesos al reporte de Estatus de ERH para 2 personas adicionales:
+94337055  Luz Nereida Vazquez Herrera.
+Así como asignar permisos a la siguiente colaboradora:
+93109407  Gabriela Paulina Sanchez Barraza.",https://trello.com/c/kCEzjexM,2022-10-06 10:02:38,Done,61b649de354cf05e929f1b08,2022-10-14 15:22:27,leopoldo.zuniga,leopoldozuniga2,"GCIA Finanzas, Contabilidad",0.11517361111111112,94.1848726851852,8.106782407407406,,,0.0001388888888888889,kCEzjexM
+ID nZnttjIt - ID nZnttjIt - Gastos AB Fernando Rodriguez [Reconexión a Oracle],Reconectar el informe en reporting el nuevo sistema contable de Oracle.,https://trello.com/c/nZnttjIt,2022-10-07 11:22:50,Done,59a6f72cfd6d3f21553be416,2022-10-14 15:31:43,Wilfredo García,will_garcia,"GCIA Finanzas, Contabilidad",0.015625,94.17843750000002,7.1539120370370375,,,,nZnttjIt
+Ejecutar desde Escritorio Remoto y verificar que corrar sin ningún problema para Margen,"Lo que se requiere es generar una tarea en la consola de administración de QlikView para que se corra el último procedimiento almacenado y se cargue en automático en el modelo del Access Point de QV, ésto para que en cuanto se tengan los datos de cartera cualquier usuario con licencia de QV pueda ejecutar el modelo desde la consola de admon y no tener que abrir el archivo manualmente y darle recargar.",https://trello.com/c/V8fClN97,2022-10-07 15:58:33,Done,61b649de354cf05e929f1b08,2022-10-25 08:31:14,leopoldo.zuniga,leopoldozuniga2,"GCIA Finanzas, Contabilidad",,83.47045138888889,4.707881944444445,,,12.981481481481481,V8fClN97
+"Propuesta Nueva Sección Eficiencia y Productividad , 1/3 José Juan","Conforme al desarrollo del TGC, se solicita la creación de los siguientes indicadores:
+
+Documento Propuesta:
+
+[https://docs.google.com/spreadsheets/d/1I4l6sppPjKW_Anr4cwvucNyKfC6QuMEpFKUNvDtgsNY/edit#gid=0](https://docs.google.com/spreadsheets/d/1I4l6sppPjKW_Anr4cwvucNyKfC6QuMEpFKUNvDtgsNY/edit#gid=0 ""smartCard-inline"")",https://trello.com/c/BLPDHN3S,2022-10-20 08:38:32,Done,615f7881e7055586c22cb732,2022-10-25 08:32:09,José Juan,jose_juan_herrera,"GCIA Finanzas, Contabilidad",,83.46982638888889,4.99556712962963,,,,BLPDHN3S
+Reporte Operaciones USD,"Actualización de Información Mensual a través de Reporting Services.
+
+Se alineo la lógica junto con el equipo, debido a que los reportes de operaciones con USD y el reporte de ventas no tenian las mismas cantidades, ya se realizo la corrección para que el siguiente mes los dos reportes aparezcan con las mismas cantidades. ",https://trello.com/c/v3L3iUsV,2022-08-11 14:27:32,Done,615dbc6d3ec5174d7f5853ae,2022-10-03 09:32:23,Alex Bourget,alexbourget1,GCIA Servicios Financieros,,105.4278935185185,,,,38.89711805555556,v3L3iUsV
+Automatización Reporte Medios de Pago,"Presentación
+
+Se desarrollo un tablero con la información que se tiene en la presentación, la cual se actualizara de forma automática.
+Sesión de presentación de Dashboard 29-09-2022",https://trello.com/c/G16MaV9h,2022-08-11 14:27:55,Done,615dbc6d3ec5174d7f5853ae,2022-10-10 08:00:51,Alex Bourget,alexbourget1,GCIA Servicios Financieros,,98.49145833333334,6.93425925925926,31.82922453703704,16.07671296296296,4.889328703703703,G16MaV9h
+Actualización Bines,"Sincronizar información de tabla actualizada de Bines
+
+Se actualizo la tabla con los bancos correspondientes, ademas de una homologacion del banco BBVA y corrección de bines de Nu Bank",https://trello.com/c/eb40wway,2022-08-19 13:08:27,Done,62aa1026422f1f2832715a65,2022-10-04 16:04:38,Karla Berenice Roldan Reyes,berenice_roldanreyes,GCIA Servicios Financieros,,104.15552083333334,22.24611111111111,23.876238425925923,,,eb40wway
+"Reporte de transacciones realizadas en ventanilla, cajas de abono y promotoría",Información necesaria para hacer un análisis de como las remesas podrían estar afectando el tema de filas en sucursales/tiendas,https://trello.com/c/7LiWgaZZ,2022-08-25 16:32:06,Done,,2022-10-27 08:00:40,,,GCIA Servicios Financieros,29.237291666666664,81.49160879629629,6.714016203703704,4.74667824074074,,1.2589814814814815,7LiWgaZZ
+ID nXKNJk1U - OP Vinculación Clientes Remesas,Vinculación de clientes Remesas + Activos Banco,https://trello.com/c/nXKNJk1U,2022-09-28 11:45:35,Done,615f508bf1d83b78f17e2b0e,2022-10-05 15:28:55,Jesus Iván De La Cruz Cancino,jesusivandelacruzcancino1,GCIA Servicios Financieros,,103.18037037037037,5.270717592592592,,,1.8843750000000001,nXKNJk1U
+ID BM2HsUPT - Reporte de Cuentas Pub de clientes Enrolados,,https://trello.com/c/BM2HsUPT,2022-09-28 11:51:04,Done,615f508bf1d83b78f17e2b0e,2022-10-20 16:51:21,Jesus Iván De La Cruz Cancino,jesusivandelacruzcancino1,GCIA Servicios Financieros,16.11798611111111,88.123125,0.07831018518518519,4.755,1.2572337962962963,,BM2HsUPT
+OP - Tablero de Control - 1er Sprint,Tareas asignadas por parte del equipo de Tablero de control,https://trello.com/c/V2OCWldp,2022-09-28 11:57:55,Done,62794e8f0f5afb1fd53745ca,2022-10-26 09:10:25,Diego Cruz Terrones,diegocruzterrones,GCIA Servicios Financieros,,75.45340277777778,6.989814814814815,,,27.883680555555557,V2OCWldp
+ID rCWYhaFa - Demográficos Cliente DIG Agosto,Clasificación de cliente Digital por datos demográficos del mes de Agosto,https://trello.com/c/rCWYhaFa,2022-09-28 12:15:24,Done,6182d82faf398487894e97bc,2022-10-03 11:42:28,Jose Miguel Juarez Barajas,josemigueljuarezbarajas1,GCIA Servicios Financieros,0.0009953703703703704,105.33762731481481,,,,4.9761342592592595,rCWYhaFa
+ID yG1q5Xl4 - Validación cifras corresponsal 7 Eleven Regulatorios,Validación de cifras de transacciones en corresponsal 7 Eleven para el área de reportes regulatorios.,https://trello.com/c/yG1q5Xl4,2022-09-28 12:25:44,Done,6182d82faf398487894e97bc,2022-10-03 11:42:38,Jose Miguel Juarez Barajas,josemigueljuarezbarajas1,GCIA Servicios Financieros,,84.5182175925926,,,,25.789363425925927,yG1q5Xl4
+Dashboard Venta Club Protección,"Generación de dashboard para visualizacion de ventas de cada club de protección (familiar, salud, moto, víal)
+
+
+Actualización:
+-Se esta buscando la manera de hacer cruce de información para reconocer RC y Plus
+El tablero ya se encuentra en producción
+",https://trello.com/c/laKxVR5a,2022-09-28 12:35:45,Done,,2022-10-10 08:00:51,,,GCIA Servicios Financieros,,98.49152777777778,6.933055555555556,,,4.874756944444444,laKxVR5a
+Petición 35250 - Pólizas Activas,"Generación de tablero mensual de pólizas activas
+
+
+Actualización:
+-Modificando permanencia en tablero*
+-Agregar modelo de relación venta de motocicletas y seguros, este tema se relaciona con las tablas del tablero de ventas
+-La tabla que se utilizaba no incluía motos, se busca la tabla correspondiente con la información.
+-Se valida la información de autos, debido a que se encuentran afiliaciones futuras.
+-Tablero ya en producción",https://trello.com/c/gyWbJmP6,2022-09-28 12:38:20,Done,62aa1026422f1f2832715a65,2022-10-10 08:00:50,Karla Berenice Roldan Reyes,berenice_roldanreyes,GCIA Servicios Financieros,,98.49153935185187,6.933101851851852,,,4.874189814814815,gyWbJmP6
+ID vCeqWaax - Reporte Remesas por canal Acumulado del año actual,"Obtener el número de clientes, monto y transacciones de los clientes activos de remesas del año en curso",https://trello.com/c/vCeqWaax,2022-09-30 10:24:49,Done,615f508bf1d83b78f17e2b0e,2022-10-14 07:59:53,Jesus Iván De La Cruz Cancino,jesusivandelacruzcancino1,GCIA Servicios Financieros,2.9432060185185183,94.49219907407407,7.528310185185185,1.2147106481481482,,2.2131250000000002,vCeqWaax
+ID agZNcGDF - Actualización de Balanza Diaria en pdw,"Se actualiza diariamente la Balanza diaria, fuente Correo de Francisco Javier Castro",https://trello.com/c/agZNcGDF,2022-10-03 09:11:35,Done,615dbc6d3ec5174d7f5853ae,2022-10-03 09:13:41,Alex Bourget,alexbourget1,GCIA Servicios Financieros,,105.44094907407408,,,0.0014583333333333334,,agZNcGDF
+ID J145LXaQ - Tablero Rubén Coppel,"Reporte Resumen del Banco, actualización diaria, acceso quincenal",https://trello.com/c/J145LXaQ,2022-10-03 09:14:16,Done,615dbc6d3ec5174d7f5853ae,2022-10-03 09:15:21,Alex Bourget,alexbourget1,GCIA Servicios Financieros,,105.43979166666666,,,0.0007523148148148147,,J145LXaQ
+ID 8u6fdGlO - Tablero de Indicadores Diarios (Captación / Colocación),,https://trello.com/c/8u6fdGlO,2022-10-03 09:17:08,Done,615dbc6d3ec5174d7f5853ae,2022-10-10 08:00:50,Alex Bourget,alexbourget1,GCIA Servicios Financieros,,75.50891203703704,13.846585648148146,,0.0005324074074074074,16.082523148148148,8u6fdGlO
+ID U8GYHxEJ - Entrega de Información Empresarial (Finanzas),"Información transaccional  y Saldos de Banca Empresarial (Finanzas) 
+
+Periodicidad: Mensual",https://trello.com/c/U8GYHxEJ,2022-10-03 09:40:25,Done,615dbc6d3ec5174d7f5853ae,2022-10-03 09:41:59,Alex Bourget,alexbourget1,GCIA Servicios Financieros,,105.42129629629629,,,0.0010879629629629629,,U8GYHxEJ
+Actualización de Indicadores Diarios,"Ejecución de script para actualización de indicadores diarios de Solicitudes:
+'KPIC2455','KPIC2456','KPIC2457','KPIC2458','KPIC2459','KPIC3015','SXLI211125OYZ','CXRD220425G7O','KPIC3880','KPIC1030','KPIC2454','KPIC3077'
+
+",https://trello.com/c/Ths6DX7M,2022-10-03 11:13:22,Done,62719b7af102f14acc8b9e4e,2022-10-03 11:36:58,Jesus Alberto Saucedo Sifuentes,jesusalbertosaucedosifuentes,GCIA Servicios Financieros,,105.34144675925926,,,,0.01638888888888889,Ths6DX7M
+"ID R0p8xP3m - Información de tarjetas, cuentas y créditos VISA y MCC","Proporcionar la siguiente información correspondiente al número de créditos, cuentas y plásticos de tarjetas al cierre del 3er. trimestre 2022:
+
+Número de Tarjetas de crédito VISA al cierre del 3er. trimestre (Total de crédito, total de plásticos y tarjetas adicionales).
+
+Número de Tarjetas de débito VISA al cierre del 3er. trimestre (Total de cuentas, total de plásticos y tarjetas adicionales)
+
+Número de Tarjetas de crédito ORO y Platino MasterCard al cierre del 3er. trimestre (Total de créditos, total de plásticos y tarjetas adicionales), así como el número de créditos dados de alta en el 3er. trimestre 2022.
+
+Número de Tarjetas Contactless de crédito VISA, ORO, Platino y débito MasterCard al cierre del 3er. trimestre (Total de tarjetas activas ).",https://trello.com/c/R0p8xP3m,2022-10-11 17:26:47,Done,5fe27c23a056733c46cdc9d2,2022-10-14 15:31:16,Juan Carlos Huertero Estrada,juancarloshuerteroestrada1,GCIA Servicios Financieros,2.9197800925925925,94.17876157407407,,,,,R0p8xP3m
+Medios De Pago,"Desarrollo de tablero para Medios de Pago. 
+Indicadores: 
+- Ventas: Importes / Transacciones 
+- Abonos: Importes / Transacciones 
+Dimensiones: 
+- Tipo de Movimiento: TDC, TDD, EFTVO, VALES, C. COPPEL, INTERNACIONALES, CODI, DOLARES
+- Movimiento 
+- Tipo de tarjeta ",https://trello.com/c/sN0MObdE,2022-10-14 09:40:47,Done,62719b7af102f14acc8b9e4e,2022-10-27 14:48:10,Jesus Alberto Saucedo Sifuentes,jesusalbertosaucedosifuentes,GCIA Servicios Financieros,,74.45024305555555,6.758460648148148,,8.245891203703705,4.967569444444444,sN0MObdE
+TC - Indicadores Finanzas,Apoyo a equipo de Tablero de Control para la identificación de datos financieros. ,https://trello.com/c/4DdaGpOC,2022-10-26 08:24:01,Done,62719b7af102f14acc8b9e4e,2022-10-26 08:26:48,Jesus Alberto Saucedo Sifuentes,jesusalbertosaucedosifuentes,GCIA Servicios Financieros,,75.45765046296296,7.015902777777778,,,0.0019328703703703704,4DdaGpOC
+ID 5V0B72gT - Demográficos cliente digital Septiembre,Clasificación de cliente Digital por datos demográficos de los meses de septiembre desde 2018,https://trello.com/c/5V0B72gT,2022-10-26 09:44:14,Done,6182d82faf398487894e97bc,2022-10-27 12:47:21,Jose Miguel Juarez Barajas,josemigueljuarezbarajas1,GCIA Servicios Financieros,,81.29261574074074,,,,1.1271643518518517,5V0B72gT
+ID P89FbVMQ - TRX APP por hora,"Se requiere conocer el número y monto de las transacciones realizadas a través de la app Bancoppel del 8 al 21 de octubre, con la finalidad de conocer el impacto de diversas caídas del servicio registradas en esos días.",https://trello.com/c/P89FbVMQ,2022-10-26 12:31:05,Done,6182d82faf398487894e97bc,2022-10-28 12:27:16,Jose Miguel Juarez Barajas,josemigueljuarezbarajas1,GCIA Servicios Financieros,,80.3065625,,,,1.997349537037037,P89FbVMQ
+ID FDKLzdSR - Dashboard TOP 200 Comercios,"Crear un tablero donde podamos tener la información de facturación siempre accesible y actualizada de los top 200 comercios de los productos más relevantes de consumo y captación, para tener números disponibles a la hora de evaluar las alianzas y poder negociar con ellos.
+
+Se requiere revisar las tablas a nivel transaccional y clasificar los comercios dependiendo del registro dentro de la transacción, el volumen de transacciones es muy alto y la variación en los nombres dado que no se cuenta con algún otro dato para clasificar a los comercios hace que el requerimiento se vuelva complejo. 
+
+Además se necesita crear un dashboard para dar seguimiento mes a mes de la facturación por éstos comercios.
+
+https://docs.google.com/document/d/1tRbjqAWT6MYDewbxbm6_CpLDvL5630kA/edit
+",https://trello.com/c/FDKLzdSR,2022-08-19 09:28:32,Done,6255ebb6588e8f2b26ad0525,2022-10-04 12:28:56,Gibran Jair Ruiz Amador,gjruizamador,GCIA Clientes / CAT No Cobranza,0.0001273148148148148,104.3053125,,,36.01592592592593,10.109224537037036,FDKLzdSR
+ID lx2AVO5n - Sprint 3 Solicitud de información - TDC adicionales o extensiones de crédito,"El objeto de este requerimiento es para identificar las tarjetas adicionales o extensiones de créditos de TDC clásica durante el periodo de 2022 en adelante.
+Se requiere información de manera mensual al cierre del periodo para agregarlo al dashboard de TDC clásica.",https://trello.com/c/lx2AVO5n,2022-08-22 11:02:05,Done,613a72f86b04c82e98205be2,2022-10-12 07:00:55,,,GCIA Clientes / CAT No Cobranza,43.93207175925926,96.53310185185184,6.824351851851852,,,0.07609953703703703,lx2AVO5n
+ID 5rgz4FKF - Solicitud de base de datos de clientes con número de celular válido confirmado,"Se requiere una base de datos con los clientes que cuentan con número de celular válido confirmado, la información será utilizada para generar campañas a través de mercadotecnia para aumentar la cantidad de clientes registrados en optin de whatsapp y así se envíe el estado de cuenta digital por dicho medio.
+La información que nos han compartido anteriormente contiene los siguientes datos:
+NumeroDeCliente
+NombreDelCliente
+NUmeroTelefonico
+FechaDeActualizacionDetelefono
+Puntualidad
+",https://trello.com/c/5rgz4FKF,2022-08-24 11:40:16,Done,610c055539286b79a367e314,2022-10-17 08:01:11,Yareli Lugo,yarelilugo,GCIA Clientes / CAT No Cobranza,30.082384259259257,91.49125,9.896400462962964,,,13.869074074074076,5rgz4FKF
+ID eMs2aR4P - Sprint 3. / Petición 01 - IDM - Base de datos Agencia Externa.,"Se solicita bbdd para estudio con agencia externa para obtener insights relevantes y entender a fondo el consumo total de medios de los clientes Coppel.
+
+Favor de no repetir los registros de la **solicitud 36471.1** a nombre de:
+
+- Elva Brianda Michelle Soto Rodriguez . 
+",https://trello.com/c/eMs2aR4P,2022-08-25 15:29:29,Done,6307e49b3e15b9016f63f208,2022-10-10 07:01:28,Carlos Eduardo Zavala Roman,carloseduardozavalaroman,GCIA Clientes / CAT No Cobranza,17.920208333333335,98.53271990740741,6.748159722222223,10.985277777777778,,9.993564814814816,eMs2aR4P
+ID NFCoKHTd - SPRINT 3: Entrega Tablero final,Esta tarjeta pertenece a Dashboaord TOP 200 Comercios adjunta en esta misma tarjeta,https://trello.com/c/NFCoKHTd,2022-08-29 23:05:36,Done,6255ebb6588e8f2b26ad0525,2022-10-04 14:44:04,Gibran Jair Ruiz Amador,gjruizamador,GCIA Clientes / CAT No Cobranza,24.57075231481481,104.21148148148148,0.07636574074074075,,0.00010416666666666667,11.004490740740742,NFCoKHTd
+ID n6lGC8op - Sprint 3 / Solicitud de información Bases de Datos MiPymes,"Solicitamos su apoyo para obtener los siguientes datos. Compartimos el LayOut que buscamos obtener, como se puede observar esta añadido el ID de cliente. Los datos faltantes serian:
+1- Estado
+2- Municipio
+3- Colonia
+4- Dirección
+5- Teléfono Fijo
+6-  Teléfono Celular
+7- Correo
+Estamos realizando una iniciativa para ofrecer un producto de crédito a MiPyMes a través de un proceso 100% digital. Esta iniciativa está dentro del área de innovación de servicios financieros y solicitamos su apoyo ya que tenemos la fecha de liberación para el 14 de octubre y requerimos tener la información en un periodo de 3 semanas máximo para poder realizar la prospección. De parte de analítica avanzada se nos compartió una base de clientes con ciertas características correspondientes al segmento del mercado que deseamos atacar. ",https://trello.com/c/n6lGC8op,2022-09-02 14:29:43,Done,63122dc8da40eb043dfc7f29,2022-10-17 08:01:10,Marco Rodolfo Huezo Garcia,marcorodolfohuezogarcia1,GCIA Clientes / CAT No Cobranza,19.906504629629627,91.49128472222223,10.407372685185186,,1.037800925925926,13.378495370370372,n6lGC8op
+ID lMxCUJRF - Sprint 3 / Petición 02 - IDM - Base de datos Cliente digital Argentina,"Durante los últimos tres años se ha llevado a cabo el estudio Cliente Digital en Argentina y este 2022 se requiere hacer la actualización. 
+Por lo que se requiere identificar los medios masivos de comunicación (Off – On) a los que el cliente Coppel Argentina se encuentra expuesto.
+",https://trello.com/c/lMxCUJRF,2022-09-07 09:37:05,Done,6307e49b3e15b9016f63f208,2022-10-18 08:00:44,Carlos Eduardo Zavala Roman,carloseduardozavalaroman,GCIA Clientes / CAT No Cobranza,15.30324074074074,90.49158564814815,6.903599537037036,0.8472337962962962,,17.879016203703703,lMxCUJRF
+ID z9c7JEJA - Solicitud datos Clientes de BanCoppel para MiPyMe,"Solicitamos su apoyo para obtener los siguientes datos. Contamos actualmente con una base estadística sobre el universo de Clientes BanCoppel, la cual fue compartida por Sandra Paola, quien esta en el equipo de Armando Flores. El requerimiento que hacemos es obtener datos reales (ID de cliente, Dirección, Numero, etc) de esa estadística para empatarlo con una Base de Clientes Coppel que tenemos actualmente. Además de los datos requeridos en LayOut, tambien nos gustaria solicitar Nombre y Apellido del cliente.
+
+Anexo a este correo, la estadística compartida por Sandra Paola, y además un ejemplo de el Layout que buscamos empatar. 
+El objetivo de la petición es para la iniciativa MiPyMe en el área de innovación.
+Solicitamos su apoyo ya que tenemos la fecha de liberación para el 14 de octubre y requerimos tener la información en un periodo de 3 semanas máximo para poder realizar la prospección. Ya habíamos tocado este tema en la sesión del 5 septiembre, pero de igual manera le doy seguimiento. ",https://trello.com/c/z9c7JEJA,2022-09-07 10:35:11,Done,63122dc8da40eb043dfc7f29,2022-10-17 08:01:09,Marco Rodolfo Huezo Garcia,marcorodolfohuezogarcia1,GCIA Clientes / CAT No Cobranza,19.906377314814815,91.4912962962963,9.889618055555555,,,10.097037037037037,z9c7JEJA
+ID Saz0XVKP - Sprint 4 / Migración del proceso - Cifras Relevantes,"Actualmente se trabaja dentro de la gerencia de Datos de Cliente la actualización de un reporte para la Gerencia de Producto TDC Visa y Oro, que proporciona la información de la cartera total del producto, uso de línea y saldos.
+
+Se migrará este proceso a la gerencia de Crédito, para su actualización a partir del mes de Octubre 2022.",https://trello.com/c/Saz0XVKP,2022-09-08 16:20:59,Done,62ff9f855a3bfc1a2f6988be,2022-10-27 08:01:13,Carlos Antonio Gómez Peralta,carlosantoniogomezperalta,GCIA Clientes / CAT No Cobranza,0.10207175925925925,81.49125,6.792222222222222,,3.745416666666667,38.01322916666667,Saz0XVKP
+ID tn0CQTow - RQM Mercadotecnia,"Solicitud generada por el equipo de Mercadotecnia Bancoppel. Gaby Mendoza y equipo.
+Requerimiento de bases de información para comunicación generalizada por el canal de paid media. 
+
+El proceso de actualización se requiere sea mensual.
+Anexo solicitud de requerimiento:
+https://docs.google.com/document/d/1hck-sIzHEv6W4JQ24gCofPhEvJNl6T5X/edit",https://trello.com/c/tn0CQTow,2022-09-15 13:47:24,Done,5db1bc58d44f887829c1db57,2022-10-17 08:01:09,Evelyn María Perez Amezquita,evelynmariaperezamezquita,GCIA Clientes / CAT No Cobranza,5.92892361111111,91.49130787037036,9.839502314814814,0.23612268518518517,1.807685185185185,13.947314814814817,tn0CQTow
+ID JhgeBrhd - Concurso RESTONIC JULIO-AGOSTO,"Solicito su apoyo para generar un informe de ventas realizadas de proveedor RESTONIC con fechas del 1 de Julio al 31 de Agosto del 2022, el motivo de este es para poder realizar un contacto con los ganadores del concurso que se realizo en dichas fechas el premio consiste en 10 ganadores de 1 TV de 40"".",https://trello.com/c/JhgeBrhd,2022-09-19 09:10:53,Done,631f7b06b5d52f00b53c6076,2022-10-05 18:49:54,Grecia Anahi De La Rocha Ochoa,greciaanahidelarochaochoa,GCIA Clientes / CAT No Cobranza,2.127199074074074,103.04078703703703,0.285474537037037,,2.033865740740741,11.955555555555556,JhgeBrhd
+"ID RUX33LzF - Sprint 3 / Mejora del Tablero ""Vintage de Activación""","Se solicita incluir en la gráfica del lado derecho del Vintage llamada ""Cosecha por Meses"" una línea adicional que represente el promedio de todos los meses del año (enero, febrero, marzo, etc.) con el objetivo de poder observar el porcentaje de activación promedio por cada uno de los meses (mes 0, mes 1, mes 2, etc.). 
+
+La información deberá poder ser descargada. 
+
+Ver imagen adjunta.  ",https://trello.com/c/RUX33LzF,2022-09-21 10:18:00,Done,60bf89e57d786f89af9b2ba3,2022-10-17 08:01:08,Carlos Mauricio Morales Muñoz,carlosmauriciomoralesmunoz,GCIA Clientes / CAT No Cobranza,2.147847222222222,91.49131944444444,10.923090277777776,,,12.834016203703705,RUX33LzF
+ID YzmMDzn9 - Sprint 3 / Segunda parte Conceptualización Indicadores Atracción y Activación,"Crear un tablero que muestre el comportamiento de los indicadores generales (29). Esto seria la segunda etapa de la conceptualizacion donde se espera crear 14 visualizaciones.  PP12, PP18, PP24 Y PD.",https://trello.com/c/YzmMDzn9,2022-09-22 09:02:13,Done,6303adcc50548680ab00e95c,2022-10-03 07:01:35,David Bensainten Diaz Torrijos,davidbensaintendiaztorrijos,GCIA Clientes / CAT No Cobranza,,98.9178125,10.203564814814815,,,7.327523148148148,YzmMDzn9
+ID sOsZ6fuU - Sprint 3 / Cálculo KPIs Montos y Transacciones y Comportamiento de Cliente,"Se trabajarán con los Indicadores relacionados Clientes, Montos y Transacciones y Comportamiento de Cliente, los cuales están marcados en la columna Primer Sprint del siguiente documento:
+
+https://docs.google.com/spreadsheets/d/1zH0YQsslut9XK8uc9nWKzgFAmO_xUhO0nLD5fA24b00/edit?pli=1#gid=0",https://trello.com/c/sOsZ6fuU,2022-09-23 12:50:16,Done,6255ebb6588e8f2b26ad0525,2022-10-17 08:01:08,Gibran Jair Ruiz Amador,gjruizamador,GCIA Clientes / CAT No Cobranza,,91.49131944444444,9.894618055555556,,0.002627314814814815,13.901967592592591,sOsZ6fuU
+ID BwskwzMU - Sprint 3 / Extracción de información e información de dataset para entendimiento,Se creara tabla de perfil de cliente con la clasificación de cada cuenta de TDC.,https://trello.com/c/BwskwzMU,2022-09-23 14:02:33,Done,6255ebb6588e8f2b26ad0525,2022-10-17 08:01:07,Gibran Jair Ruiz Amador,gjruizamador,GCIA Clientes / CAT No Cobranza,,91.49133101851851,9.796921296296297,,0.00042824074074074075,13.951655092592594,BwskwzMU
+ID bWIemx6v -Sprint 4-Petición IDM-Exploratorio Relojería,Conocer los hábitos de consumo y usos que el Cliente Coppel le dan a su reloj con ello buscar áreas de oportunidad para aumentar las ventas. Esta base será compartida con CAT para el levantamiento de campo.,https://trello.com/c/bWIemx6v,2022-09-23 15:17:41,Done,63220f187d577e0181af106f,2022-10-17 09:01:10,Norma Eloisa Hernandez Rochin,normaeloisahernandezrochin,GCIA Clientes / CAT No Cobranza,3.759560185185185,91.44962962962963,0.38936342592592593,2.055648148148148,8.17170138888889,9.362256944444445,bWIemx6v
+ID pfljoVi7 - Sprint 4-IDM - Solicitud Base de datos Clientes Club de Protección,Se solicita base de datos de clientes Coppel que cuenten y no cuenten con Club de protección para realizar un Focus Group con la intención de evaluar las herramientas que se consideran implementar para una prueba referente a seguros.,https://trello.com/c/pfljoVi7,2022-09-26 10:10:36,Done,63220f4225c9b90378eab49a,2022-10-24 15:19:48,Jose Jaime Rios Castro,josejaimerioscastro,GCIA Clientes / CAT No Cobranza,0.9712152777777777,84.18668981481481,0.27269675925925924,2.040185185185185,8.187905092592592,16.74271990740741,pfljoVi7
+ID t4QyGjYV - BDD CLIENTES PERIÓDICO COPPEL,"Solicito BDD del 5% de clientes totales con crédito Coppel vigente para realizar encuesta de seguimiento de periódico Coppel, también se requiere el conteo de clientes totales por municipio, sólo se requieren clientes con puntualidad A y N (se requiere para fines estadísticos y realizar un factor de proyección para futuras tomas de muestra).  Adjunto layout de las variables que se necesitan en la BDD. ",https://trello.com/c/t4QyGjYV,2022-10-01 23:49:41,Done,63220f3cddf55d0316182d1f,2022-10-21 13:15:02,Yessica Gomez Clemente,yessicagomezclemente,GCIA Clientes / CAT No Cobranza,1.66474537037037,87.2733449074074,3.602511574074074,6.680648148148148,,7.611365740740741,t4QyGjYV
+ID g2Py3daD - Sprint 4 / Solicitud IDM - Conocimiento del Metaverso.,"Se solicita una base de datos para un estudio sobre el conocimiento del metaverso del cliente Coppel. Se quiere explorar un nuevo canal de distribución de contenido e interacción con el consumidor, para ello se realizará un estudio de conocimiento del cliente Coppel y de haber suficientes consumidores, justificar el desarrollo y entrada.",https://trello.com/c/g2Py3daD,2022-10-05 14:27:30,Done,632213b400a3e901a4871e1d,2022-10-25 13:46:22,Elva Brianda Michell Soto Rodriguez,elvabriandamichellsotorodriguez,GCIA Clientes / CAT No Cobranza,2.0075231481481484,83.25159722222223,2.96625,3.887384259259259,,11.110277777777776,g2Py3daD
+ID mzibDoa3 - Sprint 4 / BBDD - Hábitos de consumo de café,"Haremos un estudio de mercado con clientes Coppel para conocer sus hábitos de consumo de café, en aras de ayudar a la categoría de enseres domésticos a entender a los clientes y sus consumos sobre este productos.
+
+
+",https://trello.com/c/mzibDoa3,2022-10-07 12:18:10,Done,63066507dc785942970c6e60,2022-10-27 08:01:12,Sergio Fernando Lara Morales,sergiofernandolaramorales,GCIA Clientes / CAT No Cobranza,1.994826388888889,81.49129629629628,6.656296296296297,4.157650462962963,,7.012777777777778,mzibDoa3
+ID s2RchvKW - Sprint 4 -Clientes Digitales nuevos,"Se requiere de:
+  Clientes Digitales nuevos para
+    Disposición de préstamo persona en app
+    Cobro de remesas (Apiza y BTS)
+    Pago de servicios y tiempo aire en app (nueva iniciativa)
+
+Esto con el objetivo de idenficar la inciativa con mayor impacto en la atracción de clientes nuevos",https://trello.com/c/s2RchvKW,2022-10-07 13:09:49,Done,6310db0f8ec4ef0017af3349,2022-10-27 10:45:05,Juan Francisco Martinez Trejo,juanfranciscomartineztrejo,GCIA Clientes / CAT No Cobranza,7.101631944444444,81.37748842592592,2.0760069444444444,4.091307870370371,,6.630543981481481,s2RchvKW
+ID VgkREIOO - Sprint 4 / Conceptualización Etapa 2 / Uso y Retención,,https://trello.com/c/VgkREIOO,2022-10-07 16:08:47,Done,6255ebb6588e8f2b26ad0525,2022-10-24 09:58:26,Gibran Jair Ruiz Amador,gjruizamador,GCIA Clientes / CAT No Cobranza,,84.40989583333334,,,0.0008912037037037038,16.74190972222222,VgkREIOO
+ID LYdfvgFe - Sprint 4 / Mejoras y cambios Etapa 1 / Atracción y Activación,,https://trello.com/c/LYdfvgFe,2022-10-07 16:12:30,Done,6255ebb6588e8f2b26ad0525,2022-10-24 08:01:02,Gibran Jair Ruiz Amador,gjruizamador,GCIA Clientes / CAT No Cobranza,,84.4914236111111,6.978564814814814,,0.0008680555555555555,9.679270833333332,LYdfvgFe
+Sprint 4 / Mejoras Tablero Reporte comercial,"AAURR a solicitado alguna mejoras en el tablero las cuales son: 
+1- Acentos en el filtro de ""Estado""
+
+2- Para la tabla final centrar las cifras, en los miles una coma de separación  
+
+3- Agregar símbolo de % en las cifras de la columna % primer uso.
+
+4- Actualizar el dato de las gerencias y zonas para disminuir los datos que se muestra al seleccionar el filtro ""Null"".",https://trello.com/c/35ETVTBh,2022-10-12 12:37:16,Done,6303adcc50548680ab00e95c,2022-10-27 08:01:12,David Bensainten Diaz Torrijos,davidbensaintendiaztorrijos,GCIA Clientes / CAT No Cobranza,0.01880787037037037,81.49130787037038,6.808715277777778,0.04767361111111112,,7.933090277777777,35ETVTBh
+Sprint 4 / Conceptualización de Tablero VISA,"4 Sesiones de trabajo con VISA para desarrollar, revisar y ajustar la conceptualización del tablero de TDC, TDD VISA",https://trello.com/c/qEsCRmEF,2022-10-12 14:18:44,Done,6255ebb6588e8f2b26ad0525,2022-10-25 15:23:42,Gibran Jair Ruiz Amador,gjruizamador,GCIA Clientes / CAT No Cobranza,0.006817129629629629,83.1840162037037,,,,13.038298611111111,qEsCRmEF
+ID C6RYSsEC - Sprint 5 / Petición IDM - Base de datos clientes Coppel que compran la marca Apple,"El objetivo de este estudio es conocer el comportamiento e intereses del cliente Coppel que compra artículos de la marca Apple. Esta base será compartida con CAT para el levantamiento de campo.
+",https://trello.com/c/C6RYSsEC,2022-10-20 15:50:15,Done,63220ef9699032016c5a7974,2022-10-28 10:11:28,Maria Fernanda Leyva Inzunza,mariafernandaleyvainzunza,GCIA Clientes / CAT No Cobranza,0.7819328703703704,80.40085648148148,1.6451041666666664,2.9281018518518516,,2.4095949074074072,C6RYSsEC
+ID g40wkhs8 - 35795.1 Set de datos Campaña de Préstamo Alineado (Reporting in Service),Generar un reporting in service de los registros  movimientos trabajados y directorios de la campaña de CES Préstamo alineado.,https://trello.com/c/g40wkhs8,2022-09-07 12:59:30,Done,,2022-10-19 11:47:10,,,GCIA CES Externo,,89.33434027777777,,,,34.00256944444444,g40wkhs8
+ID qff7h8FX - 35912.1 Set de datos Campaña CES Operación Argentina (Reporting in service),Generar un reporting in service de los registros  movimientos trabajados y directorios de la campaña de Operación Argentina.,https://trello.com/c/qff7h8FX,2022-09-07 13:26:11,Done,,2022-10-19 11:47:27,,,GCIA CES Externo,,89.33414351851853,,,,34.0028125,qff7h8FX
+ID 7t0MRTHo - 36016.1 Set de datos Campaña CES Distribución Argentina (Reporting in Service),Generar un reporting in service de los registros  movimientos trabajados y directorios de la campaña de Distribución Argentina.,https://trello.com/c/7t0MRTHo,2022-09-07 15:01:43,Done,,2022-10-19 11:47:37,,,GCIA CES Externo,,89.33402777777779,,,,34.00295138888889,7t0MRTHo
+ID L97F6hAC - 36155.1 Set de datos Campaña CES Abono Argentina (Reporting in Service),Generar un reporting in service de los registros  movimientos trabajados y directorios de la campaña de Abono Argentina.,https://trello.com/c/L97F6hAC,2022-09-07 15:02:15,Done,,2022-10-19 11:47:49,,,GCIA CES Externo,,89.3338888888889,,,,34.003113425925925,L97F6hAC
+ID IGILPV8e - 36785.1 Set de datos Campaña CES Traspasos Afore (Reporting In Service),Generar un reporting in service de los registros movimientos trabajados y directorios de la campaña CES Traspasos Afore Coppel.,https://trello.com/c/IGILPV8e,2022-09-07 15:21:41,Done,,2022-10-19 11:47:56,,,GCIA CES Externo,7.108148148148149,89.33380787037038,,,,34.00321759259259,IGILPV8e
+ID Ej4xAmP8 - 36786.1 Set de datos Campaña CES Club de Protección Familiar (Reporting In Service),Generar un reporting in service de los registros movimientos trabajados y directorios de la campaña CES Servicios de Club de Protección Familiar.,https://trello.com/c/Ej4xAmP8,2022-09-07 15:22:21,Done,,2022-10-19 11:48:00,,,GCIA CES Externo,7.107800925925926,89.33376157407407,,,,34.00329861111111,Ej4xAmP8
+ID qTU6g8mW - 36852.1 Set de datos Campaña CES Club de Protección Salud (Reporting in service),Generar un reporting in service de los registros movimientos trabajados y directorios de la campaña CES Servicios de Club de Protección Salud.,https://trello.com/c/qTU6g8mW,2022-09-07 15:23:45,Done,,2022-10-19 11:47:19,,,GCIA CES Externo,7.782094907407408,89.33423611111111,,,,34.00269675925926,qTU6g8mW
+ID M2pSdM57 - Reproceso Repositorio Bernardo Bazua App Bancoppel 2021,"Se solicita reprocesar el repositorio de Bernardo Bazua con los datos nuevos para App BanCoppel de 2021, esto con la finalidad de contar con los datos correctos y calidad en la información necesaria para el Tablero CES Bernardo Bazua.",https://trello.com/c/M2pSdM57,2022-09-22 18:07:27,Done,63235c17d47127001607989d,2022-10-26 17:59:27,Jose Alfredo Lizarraga Bueno,josealfredolizarragabueno,GCIA CES Externo,3.2597800925925924,82.07582175925926,0.023750000000000004,27.731631944444445,0.00020833333333333335,2.27130787037037,M2pSdM57
+ID MtAASThm - Base de datos Cargos no reconocidos,"El objetivo de la solicitud es realizar un match de información con el numero de cliente para obtener los datos completos de los campo: nombre de cliente, correo del cliente, teléfono de contacto, genero y edad, en la base de datos Layout de Experiencia del cliente con saldos no reconocidos,  la cual se anexa se requiere se coloque la información faltante en los campos mencionados, en las pestañas: Aclaración en trámite y Aclaraciones finalizadas.
+
+Esta base de datos se comparte hacia el CES por el equipo de CAT, mediante la extracción de la plataforma de salesforce por el equipo de CAT. 
+",https://trello.com/c/MtAASThm,2022-10-04 17:02:34,Done,62f42dbcb90db186123b0930,2022-10-17 08:00:58,Gladis Karina Mercado Cárdenas,gmercado7,GCIA CES Externo,0.04164351851851852,91.49145833333334,6.5406712962962965,0.8129398148148149,,5.22863425925926,MtAASThm
